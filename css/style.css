@@ -3,3 +3,6 @@
     Author     : Keane
     Description: Base styles for GitHub.io page
 */
+body {
+  padding: 60px;
+}
