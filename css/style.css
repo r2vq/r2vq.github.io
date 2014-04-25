@@ -3,6 +3,80 @@
     Author     : Keane
     Description: Base styles for GitHub.io page
 */
+
+/** fonts **/
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:700);
+
+/** header **/
+header{
+  margin: 0px;
+  padding: 15px 0px 10px 0px;
+  background: #010;
+  font-family: 'Roboto Condensed', 'sans-serif';
+}
+
+header h1#logo{
+  margin-top: 0;
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+  text-shadow: -1px 0 black, 0 1px black,
+    1px 0 black, 0 -1px black;
+}
+
+header h1#logo span#github{
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  text-shadow: 0 -1.5px 0 rgba(0,0,0,0.7);
+}
+
+header a{
+  color: #fff;
+}
+
+header a:hover{
+  color: #9f9;
+  text-decoration: none;
+}
+
+header ul#topnav {
+  float: right;
+  padding-top: 5px;
+}
+
+header ul#topnav li{
+  float: left;
+  list-style: none;
+  margin-right: 30px;
+  letter-spacing: 1.5px;
+}
+
+/** sections **/
+section.page-section{
+  min-height: 100px;
+  padding: 20px 0px 20px 0px;
+}
+section#section-top{
+  background-color: #9f9;
+}
+
+section#section-projects{
+  background-color: #7d7;
+}
+
+section#section-companies{
+  background-color: #5b5;
+}
+
+section#section-biography{
+  background-color: #393;
+}
+
+/** main body **/
 body {
-  padding: 60px;
+  background-color: #171;
+}
+
+a, a:hover {
+  color: #353;
+  font-weight: bolder;
 }
