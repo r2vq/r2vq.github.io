@@ -9,7 +9,7 @@
 
 /** header **/
 
-nav.navbar{
+.navbar{
   margin-top: 0px;
   margin-bottom: 0px;
   padding-top: 15px;
@@ -25,18 +25,21 @@ nav.navbar{
 }
 
 /** affects all page sections **/
-section.page-section{
+.page-section{
   min-height: 100px;
   padding-top: 20px;
   padding-bottom: 20px;
 }
-section.page-section + .page-section{
+.page-section + .page-section{
   border-top: #ccc solid 1px;
   background-color: #fff;
 }
+.section-content{
+  padding-top: 20px;
+}
 
 /** top section **/
-section#section-top{
+#section-top{
   background-image: url('../img/stars.jpg');
   background-color: #000;
   background-repeat: no-repeat;
@@ -45,37 +48,42 @@ section#section-top{
   background-attachment: fixed;
 }
 
-article#article-top{
+#article-top{
 }
 
-h1.banner{
+.banner{
   font-weight: 100;
   letter-spacing: 2px;
   text-shadow: 0 -1.5px 0 rgba(0,0,0,0.7);
   color: #fff;
 }
 
-h4.subtitle{
+.subtitle{
   font-weight: 100;
   letter-spacing: 2px;
   color: #fff;
 }
 
 /** project section **/
-section#section-projects{
+#section-projects{
 }
 
 /** companies section **/
-section#section-companies{
+#section-companies{
 }
 
 /** biography section **/
-section#section-biography{
+#section-biography{
 }
 
 /** main body **/
 body {
   background-color: #fff;
+}
+
+/** images **/
+img.suit-logo{
+  width: 100px;
 }
 
 /** smartphone specific **/
