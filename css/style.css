@@ -85,13 +85,3 @@ body {
 img.suit-logo{
   width: 100px;
 }
-
-/** smartphone specific **/
-@media only screen
-and (max-device-width : 767px)
-{
-  section.page-section{
-    min-height: 593px;
-    height: 100vh;
-  }
-}
