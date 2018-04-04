@@ -1,87 +1,41 @@
-/* 
-    Document   : style
-    Author     : Keane
-    Description: Base styles for GitHub.io page
-*/
-
-/** fonts **/
-@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:700);
-
-/** header **/
-
-.navbar{
-  margin-top: 0px;
-  margin-bottom: 0px;
-  padding-top: 15px;
-  padding-bottom: 10px;
-  background-color: #010;
-  border-radius: 0px;
-  font-family: 'Roboto Condensed', 'sans-serif';
-}
-
-.navbar-brand #github{
-  font-family: Helvetica, arial, freesans, clean, sans-serif;
-  text-shadow: 0 -1.5px 0 rgba(0,0,0,0.7);
-}
-
-/** affects all page sections **/
-.page-section{
-  min-height: 100px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-.page-section + .page-section{
-  border-top: #ccc solid 1px;
-  background-color: #fff;
-}
-.section-content{
-  padding-top: 20px;
-}
-
-/** top section **/
-#section-top{
-  background-image: url('../img/stars.jpg');
-  background-color: #000;
-  background-repeat: no-repeat;
-  background-position: left;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-#article-top{
-}
-
-.banner{
-  font-weight: 100;
-  letter-spacing: 2px;
-  text-shadow: 0 -1.5px 0 rgba(0,0,0,0.7);
-  color: #fff;
-}
-
-.subtitle{
-  font-weight: 100;
-  letter-spacing: 2px;
-  color: #fff;
-}
-
-/** project section **/
-#section-projects{
-}
-
-/** companies section **/
-#section-companies{
-}
-
-/** biography section **/
-#section-biography{
-}
-
-/** main body **/
 body {
-  background-color: #fff;
+  background-color: #2B2B2B;
+  color: #A9B7C6;
+  font-family: Menlo, Consolas, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  padding: 2em;
 }
 
-/** images **/
-img.suit-logo{
-  width: 100px;
+.todo {
+  color: #ABC023;
+  font-style: italic;
+}
+
+.keyword {
+  color: #CC7832;
+}
+
+.indent-0 {
+  text-indent: 0em;
+}
+
+.indent-1 {
+  text-indent: 2em;
+}
+
+.indent-2 {
+  text-indent: 4em;
+}
+
+.blink-me {
+  animation: blinker 1250ms linear infinite;
+}
+
+.string {
+  color: #6A8759;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
 }
