@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Parking Form</title>
+    <style>
+        body {
+            font-size: 12px;
+            font-family: sans-serif;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        div > section {
+            margin-top: 0;
+        }
+
+        h1 {
+            font-size: 20px;
+        }
+
+        h2 {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+
+        h3 {
+            font-size: 16px;
+            margin-top: 10px;
+        }
+
+        li > div {
+            margin-top: 10px;
+            line-height: 15px;
+        }
+
+        section {
+            display: flex;
+            justify-content: flex-start;
+            margin-top: 10px;
+        }
+
+        ul.checkbox {
+            list-style: none;
+        }
+
+        .paren {
+            font-weight: 700;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+
+        .paren::before {
+            content: "(";
+        }
+
+        .paren::after {
+            content: ")";
+        }
+
+        .underline {
+            border-bottom: 1px solid black;
+            display: inline-block;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+
+        .underline-extralong {
+            flex-grow: 1;
+            margin-right: 50px;
+        }
+
+        .underline-long {
+            width: 75px;
+        }
+
+        .underline-medium {
+            width: 50px;
+        }
+
+        .underline-short {
+            width: 25px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>
+    Parking Spot Rental Agreement
+</h1>
+<section>
+    Date:
+    <span class="paren">Number</span><span class="underline underline-medium"></span>
+    <span class="paren">Month</span><span class="underline underline-long"></span>
+    <span class="paren">Year</span> 20<span class="underline underline-short"></span>
+</section>
+<section>
+    <span class="paren">Landlord</span><span class="underline underline-extralong"></span>
+</section>
+
+<h3>
+    Parking Spot
+</h3>
+<section>
+    <span class="paren">Level</span><span class="underline underline-short"></span> <span
+        class="paren">Spot #</span><span class="underline underline-short"></span>
+</section>
+<section>
+    <span class="paren">Address</span><span class="underline underline-extralong"></span>
+</section>
+
+<h3>Car</h3>
+<section>
+    <span class="paren">Make</span><span class="underline underline-extralong"></span>
+</section>
+<section>
+    <span class="paren">Model</span><span class="underline underline-extralong"></span>
+</section>
+<section>
+    <span class="paren">Colour</span><span class="underline underline-extralong"></span>
+</section>
+<section>
+    <span class="paren">License Plate Number</span><span class="underline underline-extralong"></span>
+</section>
+
+<h3>
+    Tenant Information
+</h3>
+<section>
+    <span class="paren">Name</span><span class="underline underline-extralong"></span>
+</section>
+<section>
+    <span class="paren">Address</span><span class="underline underline-extralong"></span>
+</section>
+<section>
+    <span class="paren">Unit Number</span><span class="underline underline-extralong"></span>
+</section>
+
+<h2>Rental Terms</h2>
+<section>
+    The tenant hereby offers to lease from the landlord the premises as described herein on the terms and subject to the
+    conditions as set out in this agreement.
+</section>
+
+<ol>
+    <li>
+        <div>
+            <strong>Rent:</strong> The tenant will pay to the said Landlord monthly and every month during the said term
+            of the lease a sum of <span class="paren">enter monthly rent amount</span><span
+                class="underline underline-long"></span> payable in advance on the first day of each and every month
+            during the length of the lease.
+        </div>
+        <div>
+            Rent will be paid in the following manner: (Check one)
+        </div>
+        <ul class="checkbox">
+            <li>
+                <div>
+                    <input type="checkbox"/>
+                    Twelve (12) post dated cheques will be provided before the start of the lease and made out to the
+                    Landlord.
+                </div>
+            </li>
+            <li>
+                <div>
+                    <div>
+                        <input type="checkbox"/>
+                        One the first (1st) of every month, the Tenant will e-transfer the amount for that month to the
+                        Landlord at the following email address:
+                    </div>
+                    <div style="display: flex;">
+                        <span class="paren">E-mail</span><span class="underline underline-extralong"></span>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </li>
+
+
+    <li>
+        <div>
+            <strong>Length of Lease:</strong> The lease shall be: (Check one)
+        </div>
+        <ul class="checkbox">
+            <li>
+                <div>
+                    <input type="checkbox"/>
+                    for a term of <span class="paren">number of years</span><span
+                        class="underline underline-short"></span>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <input type="checkbox"/>
+                    month-to-month
+                </div>
+            </li>
+        </ul>
+        <div>Starting on the
+            <span class="paren">Number</span><span class="underline underline-medium"></span>
+            day of
+            <span class="paren">Month</span><span class="underline underline-long"></span>,
+            <span class="paren">Year</span> 20<span class="underline underline-short"></span>.
+        </div>
+    </li>
+
+
+    <li>
+        <div>
+            <strong>Terms:</strong> The Landlord represents and warrants that they have the authority and permission to
+            lease out the said parking space listed above.
+        </div>
+        <div>
+            The Tenant represents and warrants that they live in the Premise listed above.
+        </div>
+        <div>
+            The Landlord assumes no responsibility for any damage to person or property arising out of this rental.
+        </div>
+        <div>
+            The Tenant agrees to abide by all by-laws of the condominium corporation and will follow any notices given
+            by the condo corporation in regards to the parking spot and/or garage.
+        </div>
+        <div>
+            The rental unit cannot be sublet, assigned, or transferred. Only the car listed above shall have the right
+            to park in the spot.
+        </div>
+        <div>
+            Should a garage door opener/access/card/FOB be needed to enter the garage, the Landlord agrees to provide
+            the Tenant with said access. A Hundred Dollar ($100) deposit cheque will be required at the start of the
+            lease. The deposit will be returned at the end of the lease provided all garage door opener/access card/FOB
+            are returned without damage (save for normal wear and tear).
+        </div>
+        <div>
+            Either the Tenant or the Landlord may terminate this Agreement by providing Two (2) months notice to the
+            other. On termination of this agreement any refund owed of advance payment, deposits, and/or the returning
+            of
+            cheques in the Landlords possession must be completed within 14 days. Any unpaid rental amounts must be paid
+            within 7 days.
+        </div>
+    </li>
+</ol>
+
+<div>
+    <section style="margin-top: 30px;">
+        <strong>I/we the Tenant agree to the above terms:</strong>
+    </section>
+    <section style="display: flex; flex-direction: row; height: 80px; margin-bottom: 15px;">
+        <div style="width: 50%; display: flex; flex-direction: column;">
+            <div class="underline underline-extralong"></div>
+            <div style="margin-left:5px;"><strong>Signature</strong></div>
+        </div>
+        <div style="width: 175px; display: flex; flex-direction: column;">
+            <div class="underline underline-extralong"></div>
+            <div style="margin-left: 5px;"><strong>Date</strong></div>
+        </div>
+    </section>
+</div>
+
+<div>
+    <strong>Tenant's Contact Info</strong>
+    <section style="margin-top:5px;">
+        Email:
+    </section>
+    <section style="margin-top:5px;">
+        Phone Number:
+    </section>
+    <section style="margin-top:5px;">
+        Address:
+    </section>
+</div>
+
+<div>
+    <section style="margin-top: 30px;">
+        <strong>I/we the Landlord agree to the above terms:</strong>
+    </section>
+    <section style="display: flex; flex-direction: row; height: 80px; margin-bottom: 15px;">
+        <div style="width: 50%; display: flex; flex-direction: column;">
+            <div class="underline underline-extralong"></div>
+            <div style="margin-left:5px;"><strong>Signature</strong></div>
+        </div>
+        <div style="width: 175px; display: flex; flex-direction: column;">
+            <div class="underline underline-extralong"></div>
+            <div style="margin-left: 5px;"><strong>Date</strong></div>
+        </div>
+    </section>
+</div>
+
+<div>
+    <strong>Landlord's Contact Info</strong>
+    <section style="margin-top:5px;">
+        Email:
+    </section>
+    <section style="margin-top:5px;">
+        Phone Number:
+    </section>
+    <section style="margin-top:5px;">
+        Address:
+    </section>
+</div>
+
+</body>
+</html>
