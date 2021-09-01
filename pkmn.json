@@ -1,0 +1,501 @@
+{
+  "pokemon": [
+    {
+      "id": "001",
+      "name": "Venusaur",
+      "difficulty": "intermediate",
+      "style": "ranged",
+      "role": "attacker",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Bulbasaur",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Ivysaur",
+          "level": 5,
+          "image": ""
+        },
+        {
+          "name": "Venusaur",
+          "level": 9,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Charizard",
+      "difficulty": "novice",
+      "style": "melee",
+      "role": "allrounder",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Charmander",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Charmeleon",
+          "level": 5,
+          "image": ""
+        },
+        {
+          "name": "Charizard",
+          "level": 9,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "name": "Pikachu",
+      "difficulty": "novice",
+      "style": "ranged",
+      "role": "attacker",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Pikachu",
+          "level": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "name": "Alolan Ninetails",
+      "difficulty": "intermediate",
+      "style": "ranged",
+      "role": "attacker",
+      "attack_type": "special",
+      "evolutions": [
+        {
+          "name": "Vulpix",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Ninetails",
+          "level": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "name": "Wigglytuff",
+      "difficulty": "intermediate",
+      "style": "melee",
+      "role": "supporter",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Jigglypuff",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Wigglytuff",
+          "level": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "name": "Machamp",
+      "difficulty": "intermediate",
+      "style": "melee",
+      "role": "allrounder",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Machop",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Machoke",
+          "level": 5,
+          "image": ""
+        },
+        {
+          "name": "Machamp",
+          "level": 9,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "name": "Slowbro",
+      "difficulty": "intermediate",
+      "style": "ranged",
+      "role": "defender",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "",
+          "level": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "name": "Gengar",
+      "difficulty": "expert",
+      "style": "melee",
+      "role": "speedster",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Gastly",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Haunter",
+          "level": 5,
+          "image": ""
+        },
+        {
+          "name": "Gengar",
+          "level": 9,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "name": "Mr. Mime",
+      "difficulty": "intermediate",
+      "style": "melee",
+      "role": "supporter",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Mr. Mime",
+          "level": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "name": "Snorlax",
+      "difficulty": "novice",
+      "style": "melee",
+      "role": "defender",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Snorlax",
+          "level": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "name": "Absol",
+      "difficulty": "expert",
+      "style": "melee",
+      "role": "speedster",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Absol",
+          "level": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "name": "Garchomp",
+      "difficulty": "intermediate",
+      "style": "melee",
+      "role": "allrounder",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Gible",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Gabite",
+          "level": 6,
+          "image": ""
+        },
+        {
+          "name": "Garchomp",
+          "level": 10,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "name": "Lucario",
+      "difficulty": "expert",
+      "style": "melee",
+      "role": "allrounder",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Lucario",
+          "level": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "name": "Crustle",
+      "difficulty": "novice",
+      "style": "melee",
+      "role": "defender",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Dwebble",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Crustle",
+          "level": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "name": "Greninja",
+      "difficulty": "expert",
+      "style": "ranged",
+      "role": "attacker",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Froakie",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Frogadier",
+          "level": 5,
+          "image": ""
+        },
+        {
+          "name": "Greninja",
+          "level": 7,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "name": "Talonflame",
+      "difficulty": "novice",
+      "style": "melee",
+      "role": "attacker",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Fletchling",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Fletchinder",
+          "level": 5,
+          "image": ""
+        },
+        {
+          "name": "Talonflame",
+          "level": 7,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "017",
+      "name": "Zeraora",
+      "difficulty": "expert",
+      "style": "melee",
+      "role": "speedster",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Zeraora",
+          "level": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "018",
+      "name": "Cinderace",
+      "difficulty": "novice",
+      "style": "ranged",
+      "role": "attacker",
+      "attack_type": "physical",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Scorbunny",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Raboot",
+          "level": 5,
+          "image": ""
+        },
+        {
+          "name": "Cinderace",
+          "level": 7,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "019",
+      "name": "Eldegoss",
+      "difficulty": "novice",
+      "style": "ranged",
+      "role": "supporter",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Gossifleur",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Eldegoss",
+          "level": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "020",
+      "name": "Cramorant",
+      "difficulty": "expert",
+      "style": "ranged",
+      "role": "attacker",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Cramorant",
+          "level": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "021",
+      "name": "Gardevoir",
+      "difficulty": "intermediate",
+      "style": "ranged",
+      "role": "attacker",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Ralts",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Kirlia",
+          "level": 6,
+          "image": ""
+        },
+        {
+          "name": "Gardevoir",
+          "level": 10,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "022",
+      "name": "Blissey",
+      "difficulty": "novice",
+      "style": "ranged",
+      "role": "supporter",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Chansey",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Blissey",
+          "level": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "023",
+      "name": "Blastoise",
+      "difficulty": "intermediate",
+      "style": "ranged",
+      "role": "defender",
+      "attack_type": "special",
+      "image": "",
+      "evolutions": [
+        {
+          "name": "Squirtle",
+          "level": 1,
+          "image": ""
+        },
+        {
+          "name": "Wartortle",
+          "level": 5,
+          "image": ""
+        },
+        {
+          "name": "Blastoise",
+          "level": 9,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
