@@ -7,7 +7,7 @@
       "style": "ranged",
       "role": "attacker",
       "attack_type": "special",
-      "image": "",
+      "image": "https://r2vq.github.io/unite/img/Pokemon_Venusaur.png",
       "evolutions": [
         {
           "name": "Bulbasaur",
