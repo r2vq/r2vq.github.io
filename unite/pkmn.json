@@ -13,17 +13,17 @@
         {
           "name": "Bulbasaur",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Bulbasaur.png"
         },
         {
           "name": "Ivysaur",
           "level": 5,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Ivysaur.png"
         },
         {
           "name": "Venusaur",
           "level": 9,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Venusaur.png"
         }
       ]
     },
@@ -40,17 +40,17 @@
         {
           "name": "Charmander",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Charmander.png"
         },
         {
           "name": "Charmeleon",
           "level": 5,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Charmeleon.png"
         },
         {
           "name": "Charizard",
           "level": 9,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Charizard.png"
         }
       ]
     },
@@ -67,7 +67,7 @@
         {
           "name": "Pikachu",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Pikachu.png"
         }
       ]
     },
@@ -84,12 +84,12 @@
         {
           "name": "Vulpix",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Alolan_Vulpix.png"
         },
         {
           "name": "Ninetails",
           "level": 4,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Alolan_Ninetails.png"
         }
       ]
     },
@@ -106,12 +106,12 @@
         {
           "name": "Jigglypuff",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Jigglypuff.png"
         },
         {
           "name": "Wigglytuff",
           "level": 4,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Wigglytuff.png"
         }
       ]
     },
@@ -128,17 +128,17 @@
         {
           "name": "Machop",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Machop.png"
         },
         {
           "name": "Machoke",
           "level": 5,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Machoke.png"
         },
         {
           "name": "Machamp",
           "level": 9,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Machamp.png"
         }
       ]
     },
@@ -153,14 +153,14 @@
       "image": "https://r2vq.github.io/unite/img/Pokemon_Slowbro.png",
       "evolutions": [
         {
-          "name": "",
+          "name": "Slowpoke",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Slowpoke.png"
         },
         {
-          "name": "",
+          "name": "Slowbro",
           "level": 4,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Slowbro.png"
         }
       ]
     },
@@ -177,17 +177,17 @@
         {
           "name": "Gastly",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Gastly.png"
         },
         {
           "name": "Haunter",
           "level": 5,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Haunter.png"
         },
         {
           "name": "Gengar",
           "level": 9,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Gengar.png"
         }
       ]
     },
@@ -204,7 +204,7 @@
         {
           "name": "Mr. Mime",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Mime.png"
         }
       ]
     },
@@ -221,7 +221,7 @@
         {
           "name": "Snorlax",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Snorlax.png"
         }
       ]
     },
@@ -238,7 +238,7 @@
         {
           "name": "Absol",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Absol.png"
         }
       ]
     },
@@ -255,17 +255,17 @@
         {
           "name": "Gible",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Gible.png"
         },
         {
           "name": "Gabite",
           "level": 6,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Gabite.png"
         },
         {
           "name": "Garchomp",
           "level": 10,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Garchomp.png"
         }
       ]
     },
@@ -282,7 +282,7 @@
         {
           "name": "Lucario",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Lucario.png"
         }
       ]
     },
@@ -299,12 +299,12 @@
         {
           "name": "Dwebble",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Dwebble.png"
         },
         {
           "name": "Crustle",
           "level": 4,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Crustle.png"
         }
       ]
     },
@@ -321,17 +321,17 @@
         {
           "name": "Froakie",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Froakie.png"
         },
         {
           "name": "Frogadier",
           "level": 5,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Frogadier.png"
         },
         {
           "name": "Greninja",
           "level": 7,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Greninja.png"
         }
       ]
     },
@@ -348,17 +348,17 @@
         {
           "name": "Fletchling",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Fletchling.png"
         },
         {
           "name": "Fletchinder",
           "level": 5,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Fletchinder.png"
         },
         {
           "name": "Talonflame",
           "level": 7,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Talonflame.png"
         }
       ]
     },
@@ -375,7 +375,7 @@
         {
           "name": "Zeraora",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Zeraora.png"
         }
       ]
     },
@@ -392,17 +392,17 @@
         {
           "name": "Scorbunny",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Scorbunny.png"
         },
         {
           "name": "Raboot",
           "level": 5,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Raboot.png"
         },
         {
           "name": "Cinderace",
           "level": 7,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Cinderace.png"
         }
       ]
     },
@@ -419,12 +419,12 @@
         {
           "name": "Gossifleur",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Gossifleur.png"
         },
         {
           "name": "Eldegoss",
           "level": 4,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Eldegoss.png"
         }
       ]
     },
@@ -441,7 +441,7 @@
         {
           "name": "Cramorant",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Cramorant.png"
         }
       ]
     },
@@ -458,17 +458,17 @@
         {
           "name": "Ralts",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Ralts.png"
         },
         {
           "name": "Kirlia",
           "level": 6,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Kirlia.png"
         },
         {
           "name": "Gardevoir",
           "level": 10,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Gardevoir.png"
         }
       ]
     },
@@ -485,12 +485,12 @@
         {
           "name": "Chansey",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Chansey.png"
         },
         {
           "name": "Blissey",
           "level": 4,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Blissey.png"
         }
       ]
     },
@@ -507,17 +507,17 @@
         {
           "name": "Squirtle",
           "level": 1,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Squirtle.png"
         },
         {
           "name": "Wartortle",
           "level": 5,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Wartortle.png"
         },
         {
           "name": "Blastoise",
           "level": 9,
-          "image": ""
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Blastoise.png"
         }
       ]
     }
