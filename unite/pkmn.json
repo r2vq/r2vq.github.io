@@ -73,7 +73,7 @@
     },
     {
       "id": "004",
-      "name": "Alolan Ninetails",
+      "name": "Alolan Ninetales",
       "difficulty": "intermediate",
       "style": "ranged",
       "role": "attacker",
@@ -87,9 +87,9 @@
           "image": "https://r2vq.github.io/unite/img/Pokemon_Alolan_Vulpix.png"
         },
         {
-          "name": "Ninetails",
+          "name": "Ninetales",
           "level": 4,
-          "image": "https://r2vq.github.io/unite/img/Pokemon_Alolan_Ninetails.png"
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Alolan_Ninetales.png"
         }
       ]
     },
@@ -204,7 +204,7 @@
         {
           "name": "Mr. Mime",
           "level": 1,
-          "image": "https://r2vq.github.io/unite/img/Pokemon_Mime.png"
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Mr_Mime.png"
         }
       ]
     },
