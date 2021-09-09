@@ -325,7 +325,7 @@
       "name": "Talonflame",
       "difficulty": "novice",
       "style": "melee",
-      "role": "attacker",
+      "role": "speedster",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Talonflame.png",
       "evolutions": [
