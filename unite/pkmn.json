@@ -6,6 +6,7 @@
       "difficulty": "intermediate",
       "style": "ranged",
       "role": "attacker",
+      "lane": "top",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Venusaur.png",
       "evolutions": [
@@ -32,6 +33,7 @@
       "difficulty": "novice",
       "style": "melee",
       "role": "allrounder",
+      "lane": "bottom",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Charizard.png",
       "evolutions": [
@@ -58,6 +60,7 @@
       "difficulty": "novice",
       "style": "ranged",
       "role": "attacker",
+      "lane": "top",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Pikachu.png",
       "evolutions": [
@@ -74,6 +77,7 @@
       "difficulty": "intermediate",
       "style": "ranged",
       "role": "attacker",
+      "lane": "top",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Alolan_Ninetales.png",
       "evolutions": [
@@ -95,6 +99,7 @@
       "difficulty": "intermediate",
       "style": "melee",
       "role": "supporter",
+      "lane": "bottom",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Wigglytuff.png",
       "evolutions": [
@@ -116,6 +121,7 @@
       "difficulty": "intermediate",
       "style": "melee",
       "role": "allrounder",
+      "lane": "bottom",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Machamp.png",
       "evolutions": [
@@ -142,6 +148,7 @@
       "difficulty": "intermediate",
       "style": "ranged",
       "role": "defender",
+      "lane": "top",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Slowbro.png",
       "evolutions": [
@@ -163,6 +170,7 @@
       "difficulty": "expert",
       "style": "melee",
       "role": "speedster",
+      "lane": "center",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Gengar.png",
       "evolutions": [
@@ -189,6 +197,7 @@
       "difficulty": "intermediate",
       "style": "melee",
       "role": "supporter",
+      "lane": "bottom",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Mr_Mime.png",
       "evolutions": [
@@ -205,6 +214,7 @@
       "difficulty": "novice",
       "style": "melee",
       "role": "defender",
+      "lane": "top",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Snorlax.png",
       "evolutions": [
@@ -221,6 +231,7 @@
       "difficulty": "expert",
       "style": "melee",
       "role": "speedster",
+      "lane": "center",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Absol.png",
       "evolutions": [
@@ -237,6 +248,7 @@
       "difficulty": "intermediate",
       "style": "melee",
       "role": "allrounder",
+      "lane": "bottom",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Garchomp.png",
       "evolutions": [
@@ -263,6 +275,7 @@
       "difficulty": "expert",
       "style": "melee",
       "role": "allrounder",
+      "lane": "bottom",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Lucario.png",
       "evolutions": [
@@ -279,6 +292,7 @@
       "difficulty": "novice",
       "style": "melee",
       "role": "defender",
+      "lane": "top",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Crustle.png",
       "evolutions": [
@@ -300,6 +314,7 @@
       "difficulty": "expert",
       "style": "ranged",
       "role": "attacker",
+      "lane": "top",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Greninja.png",
       "evolutions": [
@@ -326,6 +341,7 @@
       "difficulty": "novice",
       "style": "melee",
       "role": "speedster",
+      "lane": "center",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Talonflame.png",
       "evolutions": [
@@ -352,6 +368,7 @@
       "difficulty": "expert",
       "style": "melee",
       "role": "speedster",
+      "lane": "center",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Zeraora.png",
       "evolutions": [
@@ -368,6 +385,7 @@
       "difficulty": "novice",
       "style": "ranged",
       "role": "attacker",
+      "lane": "top",
       "attack_type": "physical",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Cinderace.png",
       "evolutions": [
@@ -394,6 +412,7 @@
       "difficulty": "novice",
       "style": "ranged",
       "role": "supporter",
+      "lane": "bottom",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Eldegoss.png",
       "evolutions": [
@@ -415,6 +434,7 @@
       "difficulty": "expert",
       "style": "ranged",
       "role": "attacker",
+      "lane": "top",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Cramorant.png",
       "evolutions": [
@@ -431,6 +451,7 @@
       "difficulty": "intermediate",
       "style": "ranged",
       "role": "attacker",
+      "lane": "top",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Gardevoir.png",
       "evolutions": [
@@ -457,6 +478,7 @@
       "difficulty": "novice",
       "style": "ranged",
       "role": "supporter",
+      "lane": "bottom",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Blissey.png",
       "evolutions": [
@@ -478,6 +500,7 @@
       "difficulty": "intermediate",
       "style": "ranged",
       "role": "defender",
+      "lane": "top",
       "attack_type": "special",
       "image": "https://r2vq.github.io/unite/img/Pokemon_Blastoise.png",
       "evolutions": [
