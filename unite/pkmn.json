@@ -8,6 +8,54 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Seed Bomb",
+                  "cooldown": "6s",
+                  "description": "Hurls a large seed at the designated area, dealing damage to opposing Pokémon in the area of effect.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Venusaur_1_0.png",
+                  "upgrade": 5
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Razor Leaf",
+                  "cooldown": "9s",
+                  "description": "Launches many sharp-edged leaves in a quick succession of attacks, dealing damage to opposing Pokémon in the area of effect.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Venusaur_2_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -50,6 +98,54 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Flame Burst",
+                  "cooldown": "6s",
+                  "description": "Attacks with a bursting flame. When this move hits, it leaves opposing Pokémon burned and increases the user's movement speed for a short time.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Charizard_1_0.png",
+                  "upgrade": 5
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Fire Spin",
+                  "cooldown": "10s",
+                  "description": "Encircles opposing Pokémon in the area of effect in a vortex of fire. After this move hits, it deals damage over time and decreases the movement speed of opposing Pokémon for a short time.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Charizard_2_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -92,6 +188,54 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Thunder Shock",
+                  "cooldown": "5s",
+                  "description": "Releases electricity, dealing damage to opposing Pokémon in the area of effect. Also paralyzes opposing Pokémon for a short time.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Pikachu_1_0.png",
+                  "upgrade": 4
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Electroweb",
+                  "cooldown": "9s",
+                  "description": "Attacks and captures opposing Pokémon using an electric net, leaving them unable to move.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Pikachu_2_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -124,6 +268,54 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Powder Snow",
+                  "cooldown": "5s",
+                  "description": "Attacks with a chilly gust of powdery snow, decreasing the movement speed of opposing Pokémon for a short time when it hits.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Alolan_Ninetales_1_0.png",
+                  "upgrade": 4
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Icy Wind",
+                  "cooldown": "8s",
+                  "description": "8s",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Alolan_Ninetales_2_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -161,6 +353,54 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Pound",
+                  "cooldown": "5s",
+                  "description": "Has the user perform a combo attack in front of itself, dealing damage to opposing Pokémon and decreasing their movement speed for a short time when the attack hits.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Wigglytuff_1_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Defense Curl",
+                  "cooldown": "8s",
+                  "description": "Has the user perform a quick roll, granting it a shield and throwing any opposing Pokémon hit by the roll. Hitting an obstacle while rolling will change the direction the user is moving and reset the cooldown of Pound, Double Slap, or Dazzling Gleam.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Wigglytuff_2_0.png",
+                  "upgrade": 4
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -198,6 +438,54 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Karate Chop",
+                  "cooldown": "6s",
+                  "description": "Attacks opposing Pokémon with a sharp chop.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Machamp_1_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Bulk Up",
+                  "cooldown": "9s",
+                  "description": "After using this move, the user becomes immune to hindrances for a short time, its movement speed and Attack are increased, and its basic attack speed is increased. The user's next basic attack also becomes a boosted attack.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Machamp_2_0.png",
+                  "upgrade": 5
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -240,6 +528,54 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Water Gun",
+                  "cooldown": "5s",
+                  "description": "Shoots water forcefully, dealing damage to opposing Pokémon and decreasing their movement speed for a short time when it hits. Holding down the button for this move increases its area of effect and damage.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Slowbro_1_0.png",
+                  "upgrade": 4
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Slack Off",
+                  "cooldown": "11s",
+                  "description": "Has the user slack off, continually restoring its HP for a short time. If this slacking off is interrupted, the HP restoration effect continues at decreased power.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Slowbro_2_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -277,6 +613,54 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Will-O-Wisp",
+                  "cooldown": "5s",
+                  "description": "Shoots multiple sinister flames, dealing damage to opposing Pokémon and leaving them burned when it hits.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Gengar_1_0.png",
+                  "upgrade": 5
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Lick",
+                  "cooldown": "7s",
+                  "description": "Attacks with the user's tongue and pulls opposing Pokémon toward the user.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Gengar_2_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -319,6 +703,54 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Fake Out",
+                  "cooldown": "7s",
+                  "description": "Has the user slap its hands together, shoving opposing Pokémon in front of it.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Mr_Mime_1_0.png",
+                  "upgrade": 4
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Light Screen",
+                  "cooldown": "8s",
+                  "description": "Creates a wall of light in the designated area that prevents opposing Pokémon from passing.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Mr_Mime_2_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -351,6 +783,54 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Tackle",
+                  "cooldown": "6s",
+                  "description": "Has the user charge forward belly first, dealing damage when it hits and shoving the first opposing Pokémon it comes in contact with. After this move on, the user's next basic attack becomes a boosted attack.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Snorlax_1_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Rest",
+                  "cooldown": "10s",
+                  "description": "Has the user fall asleep on the spot and restores its HP. Blocks the movement of all Pokémon not on the user's team while this move is in effect.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Snorlax_2_0.png",
+                  "upgrade": 8
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -383,6 +863,54 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Feint",
+                  "cooldown": "8s",
+                  "description": "Has the user dash in an arc, attacking opposing Pokémon it comes in contact with. This move ignores the Defense stat and shield effects of opposing Pokémon.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Absol_1_0.png",
+                  "upgrade": 5
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Slash",
+                  "cooldown": "6s",
+                  "description": "Slashes with sharp claws in front of the user, increasing this move's critical-hit rate.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Absol_2_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -415,6 +943,54 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Sand Attack",
+                  "cooldown": "6s",
+                  "description": "Hurls sand, narrowing the field of vision of opposing Pokémon and decreasing their movement speed for a short time when it hits. This also increases the user's movement speed and basic attack speed.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Garchomp_1_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Bulldoze",
+                  "cooldown": "5s",
+                  "description": "Has the user stamp down on the ground, dealing damage to opposing Pokémon in the area of effect.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Garchomp_2_0.png",
+                  "upgrade": 8
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -457,6 +1033,54 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Quick Attack",
+                  "cooldown": "6s",
+                  "description": "Has the user lunge forward at a speed that makes it almost invisible, dealing damage to opposing Pokémon it comes in contact with.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Lucario_1_0.png",
+                  "upgrade": 5
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Meteor Mash",
+                  "cooldown": "7s",
+                  "description": "Blasts forward with a punch like a comet, dealing damage to opposing Pokémon and shoving them.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Lucario_2_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -489,6 +1113,54 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Rock Slide",
+                  "cooldown": "6s",
+                  "description": "Drops large rocks on the designated area. When this move hits, it deals damage to opposing Pokémon in the area of effect and leaves them unable to act for a short time.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Crustle_1_0.png",
+                  "upgrade": 4
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Fury Cutter",
+                  "cooldown": "3.5s",
+                  "description": "Slashes opposing Pokémon with claws, dealing damage to them. Hitting the same opposing Pokémon multiple times in succession with this move increases the damage dealt.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Crustle_2_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -526,6 +1198,54 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Bubble",
+                  "cooldown": "9s",
+                  "description": "Attacks with a spray of bubbles, decreasing the movement speed of opposing Pokémon for a short time when it hits.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Greninja_1_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Substitute",
+                  "cooldown": "8s",
+                  "description": "Leaves behind a Substitute doll for the user while it's moving forward.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Greninja_2_0.png",
+                  "upgrade": 5
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -568,6 +1288,54 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Peck",
+                  "cooldown": "5s",
+                  "description": "Has the user fly toward an opposing Pokémon and attack three times.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Talonflame_1_0.png",
+                  "upgrade": 5
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Acrobatics",
+                  "cooldown": "8s",
+                  "description": "Has the user fly toward the designated area and attack multiple times. Allows the user to escape in a direction of its choice after using this move.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Talonflame_2_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -610,6 +1378,54 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Agility",
+                  "cooldown": "6s",
+                  "description": "Has the user perform a quick dash and increases the user's basic attack speed for a short time afterward.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Zeraora_1_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Slash",
+                  "cooldown": "8.5s",
+                  "description": "Has the user pounce at an opposing Pokémon and attack with sharp claws. This move's final attack throws opposing Pokémon.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Zeraora_2_0.png",
+                  "upgrade": 8
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -642,6 +1458,54 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "physical",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Ember",
+                  "cooldown": "6s",
+                  "description": "Shoots out a small flame, dealing damage to opposing Pokémon, leaving them burned and decreasing their Attack for a short time.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Cinderace_1_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Low Sweep",
+                  "cooldown": "7.5s",
+                  "description": "Has the user make a swift low sweep in the designated direction, dealing damage to any opposing Pokémon it hits.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Cinderace_2_0.png",
+                  "upgrade": 8
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -684,6 +1548,54 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Leafage",
+                  "cooldown": "4.5s",
+                  "description": "Pelts the target with leaves, decreasing the movement speed of opposing Pokémon for a short time when it hits.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Eldegoss_1_0.png",
+                  "upgrade": 4
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Synthesis",
+                  "cooldown": "8s",
+                  "description": "Restores the HP of the user and nearby ally Pokémon.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Eldegoss_2_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -721,6 +1633,54 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Whirlpool",
+                  "cooldown": "5s",
+                  "description": "Creates a whirlpool that deals damage to opposing Pokémon in the area of effect. This move's area of effect slowly shrinks, but the damage dealt slowly increases. Just before the whirlpool disappears, it decreases the movement speed of opposing Pokémon in the area of effect for a short time. The user can also catch Arrokuda or other prey by entering the whirlpool.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Cramorant_1_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Feather Dance",
+                  "cooldown": "8s",
+                  "description": "Decreases the Attack and movement speed of opposing Pokémon for a short time.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Cramorant_2_0.png",
+                  "upgrade": 4
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -753,6 +1713,54 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Confusion",
+                  "cooldown": "4.5s",
+                  "description": "Attacks straight in the designated direction.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Gardevoir_1_0.png",
+                  "upgrade": 8
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Teleport",
+                  "cooldown": "11s",
+                  "description": "Has the user warp to the designated area, increasing the damage dealt by one basic attack after warping.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Gardevoir_2_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -795,6 +1803,54 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Pound",
+                  "cooldown": "6s",
+                  "description": "Has the user attack by pounding in the designated direction, dealing damage to opposing Pokémon in the area of effect and decreasing their movement speed for a short time when it hits.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Blissey_1_0.png",
+                  "upgrade": 6
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Heal Pulse",
+                  "cooldown": "10s",
+                  "description": "Continually restores the user's and designated ally Pokémon's HP for a short time.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Blissey_2_0.png",
+                  "upgrade": 4
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
@@ -832,6 +1888,54 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "special",
+      "moveset": [
+          {
+              "basic": {
+                  "name": "Water Gun",
+                  "cooldown": "9s",
+                  "description": "Attacks with a shot of water, shoving opposing Pokémon and decreasing their movement speed for a short time.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Blastoise_1_0.png",
+                  "upgrade": 5
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          },
+          {
+              "basic": {
+                  "name": "Skull Bash",
+                  "cooldown": "10s",
+                  "description": "Fiercely rams an opposing Pokémon and leaves it unable to act.",
+                  "image": "https://r2vq.github.io/unite/img/Move_Ability_Blastoise_2_0.png",
+                  "upgrade": 7
+              },
+              "upgrades": [
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  },
+                  {
+                      "name": "",
+                      "cooldown": "",
+                      "description": "",
+                      "image": ""
+                  }
+              ]
+          }
+      ],
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
