@@ -8,6 +8,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a booster attack with every third attack, dealing increased damage. This boosted attack also pulls opposing Pokémon inward between the user's vines."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Venusaur.png",
           "name": "Overgrow",
@@ -45,6 +50,11 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Deals continual damage. Deals increased damage to opposing Pokémon that are burned and increases in range when the user evolves."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Charizard.png",
           "name": "Blaze",
@@ -82,6 +92,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, dealing increased damage. This boosted attack also paralyzes opposing Pokémon for a short time when it hits."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Pikachu.png",
           "name": "Static",
@@ -109,6 +124,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack wit every third attack. When this boosted attack hits, it deals damage to nearby opposing Pokémon and decreases their movement speed for a short time."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Alolan_Ninetales.png",
           "name": "Snow Warning",
@@ -141,6 +161,11 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, dealing damage to opposing Pokémon and spinning them around when it hits."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Wigglytuff.png",
           "name": "Cute Charm",
@@ -173,6 +198,11 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, dealing increased damage when it hits. This boosted attack also decreases the movement speed of opposing Pokémon for a short time."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Machamp.png",
           "name": "Guts",
@@ -210,6 +240,11 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to nearby opposing Pokémon and decreases their movement speed for a short time."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Slowbro.png",
           "name": "Oblivious",
@@ -242,6 +277,11 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, lunging at an opposing Pokémon and dealing damage."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Gengar.png",
           "name": "Levitate",
@@ -279,6 +319,11 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, dealing increased damage and throwing opposing Pokémon when it hits."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Mr_Mime.png",
           "name": "Filter",
@@ -306,6 +351,11 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to nearby Pokémon and decreases their movement speed for a short time."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Snorlax.png",
           "name": "Gluttony",
@@ -333,6 +383,11 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, dealing damage to opposing Pokémon and decreasing their Defense when it hits. If this boosted attack hits only a single opposing Pokémon, it deals increased damage."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Absol.png",
           "name": "Super Luck",
@@ -360,6 +415,11 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every fifth attack, dealing increased damage and restoring the user's HP. For a short time after a boosted attack hits, every time one of the user's basic attacks or moves hits an opposing Pokémon, the user's basic attack speed is increased."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Garchomp.png",
           "name": "Rough Skin",
@@ -397,6 +457,11 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, performing a combo attack with a bone. Deals damage to opposing Pokémon in the area of effect and throws them."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Lucario.png",
           "name": "Steadfast",
@@ -424,6 +489,11 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to opposing Pokémon in the area of effect and decreases their movement speed for a short time."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Crustle.png",
           "name": "Sturdy",
@@ -456,6 +526,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack. At long range, a boosted attack deals increased damage to opposing Pokémon and decreases their movement speed for a short time. At close range, a boosted attack deals more damage the lower the opposing Pokémon's remaining HP is."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Greninja.png",
           "name": "Torrent",
@@ -493,6 +568,11 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, creating a fiery whirlwind that deals damage to opposing Pokémon in the area of effect. This boosted attack remains readied even if the user leaves combat for a prolonged period of time after the first two basic attacks."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Talonflame.png",
           "name": "Gale Wings",
@@ -530,6 +610,11 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, dealing increased damage when it hits. Also paralyzes opposing Pokémon and restores the user's HP."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Zeraora.png",
           "name": "Volt Absorb",
@@ -557,6 +642,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "physical",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, dealing increased damage when it hits."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Cinderace.png",
           "name": "Blaze",
@@ -594,6 +684,11 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, attaching a bit of cotton fluff to opposing Pokémon. The user's basic attacks against an opposing Pokémon with cotton fluff on it deal increased damage and decrease the opposing Pokémon's movement speed for a short time."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Eldegoss.png",
           "name": "Leafage",
@@ -626,6 +721,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every fourth attack. This boosted attack spits Arrokuda or other Pokémon at opposing Pokémon and deals damage to opposing Pokémon near the target when it hits."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Cramorant.png",
           "name": "Gulp Missile",
@@ -653,6 +753,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to opposing Pokémon in the area of effect and decreases their Sp. Def for a short time."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Gardevoir.png",
           "name": "Synchronize",
@@ -690,6 +795,11 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack after a set amount of time passes, dealing increased damage."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Blissey.png",
           "name": "Natural Cure",
@@ -722,6 +832,11 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "special",
+      "basic": {
+          "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+          "name": "Basic Attack",
+          "description": "Becomes a boosted attack with every third attack, dealing continual damage and decreasing the movement speed of opposing Pokémon for a short time when it hits."
+      },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Blastoise.png",
           "name": "Torrent",
