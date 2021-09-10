@@ -8,6 +8,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Venusaur.png",
+          "name": "Overgrow",
+          "description": "When the Pokémon is at low HP, the damage it deals is increased."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Venusaur.png",
       "evolutions": [
         {
@@ -35,6 +40,11 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Charizard.png",
+          "name": "Blaze",
+          "description": "When the Pokémon is at half HP or less, its critical-hit rate is increased."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Charizard.png",
       "evolutions": [
         {
@@ -62,6 +72,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Pikachu.png",
+          "name": "Static",
+          "description": "Paralyzes all opponents near the Pokémon for a short time when the Pokémon receives damage. This Ability goes on cooldown after it's triggered."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Pikachu.png",
       "evolutions": [
         {
@@ -79,6 +94,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Alolan_Ninetales.png",
+          "name": "Snow Warning",
+          "description": "Causes snow to fall on an opposing Pokémon, dealing damage to it and decreasing its movement speed for a short time. Boosted attacks and moves (except Aurora Veil) sling snow, and hitting the same target with snow multiple times will freeze it for a short time."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Alolan_Ninetales.png",
       "evolutions": [
         {
@@ -101,6 +121,11 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Wigglytuff.png",
+          "name": "Cute Charm",
+          "description": "When the Pokémon is hit by an opposing Pokémon's attack at close range, it makes that opposing Pokémon infatuated for a short time. Infatuated opposing Pokémon become enthralled and approach the infatuating Pokémon against their will. The effects of this Ability have a cooldown and cannot trigger on the same opposing Pokémon in quick succession."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Wigglytuff.png",
       "evolutions": [
         {
@@ -123,6 +148,11 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Machamp.png",
+          "name": "Guts",
+          "description": "Increases the Pokémon's Attack when the Pokémon is afflicted by a status condition."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Machamp.png",
       "evolutions": [
         {
@@ -150,6 +180,11 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Slowbro.png",
+          "name": "Oblivious",
+          "description": "When the Pokémon receives damage, the HP loss is graduatl. When hitting an opposing Pokémon with a move, the Pokémon nullifies some of this pending damage before it takes effect, and it also decreases the opposing Pokémon's Sp. Def for a short time."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Slowbro.png",
       "evolutions": [
         {
@@ -172,6 +207,11 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Gengar.png",
+          "name": "Levitate",
+          "description": "When the Pokémon is not in combat, its movement speed is increased."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Gengar.png",
       "evolutions": [
         {
@@ -199,6 +239,11 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Mr_Mime.png",
+          "name": "Filter",
+          "description": "Reduces damage received by the Pokémon for a short time after it uses a move."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Mr_Mime.png",
       "evolutions": [
         {
@@ -216,6 +261,11 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Snorlax.png",
+          "name": "Gluttony",
+          "description": "Increases the effects gained from eating Berries."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Snorlax.png",
       "evolutions": [
         {
@@ -233,6 +283,11 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Absol.png",
+          "name": "Super Luck",
+          "description": "Increases the Pokémon's critical-hit rate."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Absol.png",
       "evolutions": [
         {
@@ -250,6 +305,11 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Garchomp.png",
+          "name": "Rough Skin",
+          "description": "When the Pokémon is struck by a melee attack, a portion of the damage received is reflected back at the attacker."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Garchomp.png",
       "evolutions": [
         {
@@ -277,6 +337,11 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Lucario.png",
+          "name": "Steadfast",
+          "description": "When the Pokémon is at low HP, it is granted a shield and its movement speed is increased."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Lucario.png",
       "evolutions": [
         {
@@ -294,6 +359,11 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Crustle.png",
+          "name": "Sturdy",
+          "description": "Every time the Pokémon loses a certain amount of HP, its Defense and Sp. Def are increased."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Crustle.png",
       "evolutions": [
         {
@@ -316,6 +386,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Greninja.png",
+          "name": "Torrent",
+          "description": "When the Pokémon is at half HP or less, its Attack and movement speed are increased."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Greninja.png",
       "evolutions": [
         {
@@ -343,6 +418,11 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Talonflame.png",
+          "name": "Gale Wings",
+          "description": "When Pokémon is at high HP, its movement speed is increased."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Talonflame.png",
       "evolutions": [
         {
@@ -370,6 +450,11 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Zeraora.png",
+          "name": "Volt Absorb",
+          "description": "The Pokémon gains an electric charge whenever it receives damage, converting a portion of that damage into additional Attack."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Zeraora.png",
       "evolutions": [
         {
@@ -387,6 +472,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "physical",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Cinderace.png",
+          "name": "Blaze",
+          "description": "When the Pokémon uses a move, its next basic attack becomes a boosted attack. When the Pokémon hits an opposing Pokémon with a basic attack or move, a cinder is placed on that opposing Pokémon. Attacking a cindered opposing Pokémon a certain number of times will cause the cinder to flare, dealing damage to the opposing Pokémon. When the Pokémon with this Ability is at half HP or less, its critical-hit rate and basic attack speed are increased for a short time."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Cinderace.png",
       "evolutions": [
         {
@@ -414,6 +504,11 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Eldegoss.png",
+          "name": "Leafage",
+          "description": "Damages an opponent and dcreases its movement speed for a short time after the Pokémon with this Ability receives a certain amount of damage. When that happens, the Pokémon also recovers HP and has its movement speed increased for a short time."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Eldegoss.png",
       "evolutions": [
         {
@@ -436,6 +531,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Cramorant.png",
+          "name": "Gulp Missile",
+          "description": "When the Pokémon uses certain moves, it catches some form of prey in its mouth. Afterward, when the Pokémon receives damage, it spits the prey out as a counterattack at an opposing Pokémon. The type of prey and effect differ based on the user's remaining HP."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Cramorant.png",
       "evolutions": [
         {
@@ -453,6 +553,11 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Gardevoir.png",
+          "name": "Synchronize",
+          "description": "When an enemy inflicts decreased movement speed or a damge-over-time condition on the Pokémon, the same is inflicted on that opponent. This ability goes on cooldown after it's triggered."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Gardevoir.png",
       "evolutions": [
         {
@@ -480,6 +585,11 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Blissey.png",
+          "name": "Natural Cure",
+          "description": "Removes all status conditions from the Pokémon. This Ability goes on cooldown after it's triggered."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Blissey.png",
       "evolutions": [
         {
@@ -502,6 +612,11 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "special",
+      "passive": {
+          "image": "https://r2vq.github.io/unite/img/Passive_Blastoise.png",
+          "name": "Torrent",
+          "description": "When the Pokémon is at h alf HP or less, its Attack and Sp. Atk are increased."
+      },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Blastoise.png",
       "evolutions": [
         {
