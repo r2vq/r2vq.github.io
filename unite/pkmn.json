@@ -11,7 +11,7 @@
       "basic": {
           "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
           "name": "Basic Attack",
-          "description": "Becomes a booster attack with every third attack, dealing increased damage. This boosted attack also pulls opposing Pokémon inward between the user's vines."
+          "description": "Becomes a boosted attack with every third attack, dealing increased damage. This boosted attack also pulls opposing Pokémon inward between the user's vines."
       },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Venusaur.png",
@@ -19,7 +19,7 @@
           "description": "When the Pokémon is at low HP, the damage it deals is increased."
       },
       "unite": {
-          "image": "https://r2vq.github.io/unite/img/Unite_Venusaur",
+          "image": "https://r2vq.github.io/unite/img/Unite_Venusaur.png",
           "name": "Unite Move: Verdant Anger",
           "description": "Launches a giant seed toward the designated area. The seed then splits apart, dealing damage to opposing Pokémon in the area of effect and decreasing their movement speed for a short time."
       },
@@ -691,7 +691,7 @@
       },
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Eldegoss.png",
-          "name": "Leafage",
+          "name": "Cotton Down",
           "description": "Damages an opponent and dcreases its movement speed for a short time after the Pokémon with this Ability receives a certain amount of damage. When that happens, the Pokémon also recovers HP and has its movement speed increased for a short time."
       },
       "unite": {
