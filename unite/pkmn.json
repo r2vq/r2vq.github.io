@@ -248,7 +248,7 @@
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Slowbro.png",
           "name": "Oblivious",
-          "description": "When the Pokémon receives damage, the HP loss is graduatl. When hitting an opposing Pokémon with a move, the Pokémon nullifies some of this pending damage before it takes effect, and it also decreases the opposing Pokémon's Sp. Def for a short time."
+          "description": "When the Pokémon receives damage, the HP loss is gradual. When hitting an opposing Pokémon with a move, the Pokémon nullifies some of this pending damage before it takes effect, and it also decreases the opposing Pokémon's Sp. Def for a short time."
       },
       "unite": {
           "image": "https://r2vq.github.io/unite/img/Unite_Slowbro.png",
