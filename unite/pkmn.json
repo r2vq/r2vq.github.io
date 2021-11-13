@@ -296,7 +296,7 @@
               "basic": {
                   "name": "Icy Wind",
                   "cooldown": "8s",
-                  "description": "8s",
+                  "description": "Attacks with a gust of freezing air, dealing damage to opposing Pokémon in the area of effect and decreasing their movement speed for a short time when it hits.",
                   "image": "https://r2vq.github.io/unite/img/Move_Ability_Alolan_Ninetales_2_0.png",
                   "upgrade": 6
               },
