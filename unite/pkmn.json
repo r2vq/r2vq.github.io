@@ -50,7 +50,7 @@
                   {
                       "name": "Petal Dance",
                       "cooldown": "11s",
-                      "description": "Scatters petals around the user, increasing movement speed for a short time and dealing damage over time to opposint Pokémon in the area of effect.\n\nUpgrade: Increases this move's area of effect.",
+                      "description": "Scatters petals around the user, increasing movement speed for a short time and dealing damage over time to opposing Pokémon in the area of effect.\n\nUpgrade: Increases this move's area of effect.",
                       "image": "https://r2vq.github.io/unite/img/Move_Ability_Venusaur_2_2.png"
                   }
               ]
@@ -111,7 +111,7 @@
                   {
                       "name": "Flamethrower",
                       "cooldown": "5.5s",
-                      "description": "Attacks with an intense blast of fire. When this move hits, it leaves opposing Pokémon bured and increases the user's movement speed for a short time.\n\nUpgrade: Increases this move's damage and the damage caused by burning.",
+                      "description": "Attacks with an intense blast of fire. When this move hits, it leaves opposing Pokémon burned and increases the user's movement speed for a short time.\n\nUpgrade: Increases this move's damage and the damage caused by burning.",
                       "image": "https://r2vq.github.io/unite/img/Move_Ability_Charizard_1_1.png"
                   },
                   {
@@ -158,7 +158,7 @@
       },
       "unite": {
           "image": "https://r2vq.github.io/unite/img/Unite_Charizard.png",
-          "name": "Unite Move: Sesimic Slam",
+          "name": "Unite Move: Seismic Slam",
           "description": "Has the user fly up into the air, allowing it to move freely over obstacles. While this Unite Move is being used, the user's basic attacks deal increased damage and leave opposing Pokémon, the user recovers HP. Using this Unite Move again on a Pokémon from the opposing team has the user grab it and slam it onto the ground from the air."
       },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Charizard.png",
@@ -722,7 +722,7 @@
                   {
                       "name": "Psychic",
                       "cooldown": "6s",
-                      "description": "Centers one telekinetic blast each on the user, any guard-swapped opposing Pokémon, and any Light Screen or Barrier walls created by the user, damaging all opposing Pokémon caught in the blasts and lowering their Sp. Def for a short time. If an opposing Pokémon is hit by mmultiple overlapping blasts, that Pokémon is also left unable to act for a short time.\n\nUpgrade: Increases damage dealt and the length of time opposing Pokémon are left unable to act.",
+                      "description": "Centers one telekinetic blast each on the user, any guard-swapped opposing Pokémon, and any Light Screen or Barrier walls created by the user, damaging all opposing Pokémon caught in the blasts and lowering their Sp. Def for a short time. If an opposing Pokémon is hit by multiple overlapping blasts, that Pokémon is also left unable to act for a short time.\n\nUpgrade: Increases damage dealt and the length of time opposing Pokémon are left unable to act.",
                       "image": "https://r2vq.github.io/unite/img/Move_Ability_Mr_Mime_1_2.png"
                   }
               ]
@@ -1258,7 +1258,7 @@
       },
       "unite": {
           "image": "https://r2vq.github.io/unite/img/Unite_Greninja.png",
-          "name": "Unite Move: Waterburst Shurken",
+          "name": "Unite Move: Waterburst Shuriken",
           "description": "Has the user throw a giant water shuriken toward the designated area, dealing damage to opposing Pokémon in the area of effect and decreasing their movement speed for a short time when this Unite Move hits. The water shuriken then immediately explodes, dealing damage to opposing Pokémon in the area of effect once again and throwing them. Once this Unite Move ends, the user may jump in a designated direction."
       },
       "image": "https://r2vq.github.io/unite/img/Pokemon_Greninja.png",
@@ -1391,7 +1391,7 @@
                   {
                       "name": "Volt Switch",
                       "cooldown": "8s",
-                      "description": "Has the user perform a high-speed dash, dealing damage to any opposing Pokémon it hits and increasing the user's basic attack speed for a short time. Using this move again within a set period of time will allow the user to immediately dash back to where it orginally used the move.\n\nUpgrade: Increases this move's damage and further increases basic attack speed.",
+                      "description": "Has the user perform a high-speed dash, dealing damage to any opposing Pokémon it hits and increasing the user's basic attack speed for a short time. Using this move again within a set period of time will allow the user to immediately dash back to where it originally used the move.\n\nUpgrade: Increases this move's damage and further increases basic attack speed.",
                       "image": "https://r2vq.github.io/unite/img/Move_Ability_Zeraora_1_1.png"
                   },
                   {
@@ -1500,7 +1500,7 @@
                   {
                       "name": "Feint",
                       "cooldown": "13s",
-                      "description": "Increases the user's movement speed for a short time and makes the user invincible.\n\nUpgrade: After this move is used, basic attacks that hit opposing Pokémon resetore the user's HP (up to three times).",
+                      "description": "Increases the user's movement speed for a short time and makes the user invincible.\n\nUpgrade: After this move is used, basic attacks that hit opposing Pokémon restore the user's HP (up to three times).",
                       "image": "https://r2vq.github.io/unite/img/Move_Ability_Cinderace_2_2.png"
                   }
               ]
@@ -1567,7 +1567,7 @@
                   {
                       "name": "Leaf Tornado",
                       "cooldown": "9s",
-                      "description": "Attacks with a tornado of sharp leaves, leaving a path in its wake that increases ally Pokémon's movementspeed for a short time.\n\nUpgrade: Also decreases the accuracy of opposing Pokémon for a short time when this move hits.",
+                      "description": "Attacks with a tornado of sharp leaves, leaving a path in its wake that increases ally Pokémon's movement speed for a short time.\n\nUpgrade: Also decreases the accuracy of opposing Pokémon for a short time when this move hits.",
                       "image": "https://r2vq.github.io/unite/img/Move_Ability_Eldegoss_1_2.png"
                   }
               ]
@@ -1604,7 +1604,7 @@
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Eldegoss.png",
           "name": "Cotton Down",
-          "description": "Damages an opponent and dcreases its movement speed for a short time after the Pokémon with this Ability receives a certain amount of damage. When that happens, the Pokémon also recovers HP and has its movement speed increased for a short time."
+          "description": "Damages an opponent and decreases its movement speed for a short time after the Pokémon with this Ability receives a certain amount of damage. When that happens, the Pokémon also recovers HP and has its movement speed increased for a short time."
       },
       "unite": {
           "image": "https://r2vq.github.io/unite/img/Unite_Eldegoss.png",
@@ -1614,7 +1614,7 @@
       "image": "https://r2vq.github.io/unite/img/Pokemon_Eldegoss.png",
       "evolutions": [
         {
-          "name": "Gossifleur",
+          "name": "Possibler",
           "level": 1,
           "image": "https://r2vq.github.io/unite/img/Pokemon_Gossifleur.png"
         },
@@ -1769,7 +1769,7 @@
       "passive": {
           "image": "https://r2vq.github.io/unite/img/Passive_Gardevoir.png",
           "name": "Synchronize",
-          "description": "When an enemy inflicts decreased movement speed or a damge-over-time condition on the Pokémon, the same is inflicted on that opponent. This ability goes on cooldown after it's triggered."
+          "description": "When an enemy inflicts decreased movement speed or a damage-over-time condition on the Pokémon, the same is inflicted on that opponent. This ability goes on cooldown after it's triggered."
       },
       "unite": {
           "image": "https://r2vq.github.io/unite/img/Unite_Gardevoir.png",
@@ -1901,7 +1901,7 @@
                   {
                       "name": "Hydro Pump",
                       "cooldown": "8.5s",
-                      "description": "Has the user attack by blsating out a huge volume of water, dealing damage to opposing Pokémon and shoving them when it hits.",
+                      "description": "Has the user attack by blasting out a huge volume of water, dealing damage to opposing Pokémon and shoving them when it hits.",
                       "image": "https://r2vq.github.io/unite/img/Move_Ability_Blastoise_1_1.png"
                   },
                   {
