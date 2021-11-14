@@ -8,6 +8,13 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "stars": {
+        "offense": 4.5,
+        "endurance": 2,
+        "mobility": 2,
+        "scoring": 2.5,
+        "support": 1
+      },
       "moveset": [
         {
           "basic": {
@@ -98,6 +105,13 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "stars": {
+        "offense": 3.5,
+        "endurance": 3,
+        "mobility": 2.5,
+        "scoring": 3,
+        "support": 0.5
+      },
       "moveset": [
         {
           "basic": {
@@ -188,6 +202,13 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "stars": {
+        "offense": 4.5,
+        "endurance": 1.5,
+        "mobility": 2.5,
+        "scoring": 2,
+        "support": 1.5
+      },
       "moveset": [
         {
           "basic": {
@@ -268,6 +289,13 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "stars": {
+        "offense": 4,
+        "endurance": 1.5,
+        "mobility": 1.5,
+        "scoring": 2.5,
+        "support": 3
+      },
       "moveset": [
         {
           "basic": {
@@ -353,6 +381,13 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "stars": {
+        "offense": 1,
+        "endurance": 2.5,
+        "mobility": 2.5,
+        "scoring": 2,
+        "support": 4.5
+      },
       "moveset": [
         {
           "basic": {
@@ -438,6 +473,13 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "stars": {
+        "offense": 4,
+        "endurance": 2.5,
+        "mobility": 2.5,
+        "scoring": 2.5,
+        "support": 1
+      },
       "moveset": [
         {
           "basic": {
@@ -528,6 +570,13 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "special",
+      "stars": {
+        "offense": 1.5,
+        "endurance": 4,
+        "mobility": 1.5,
+        "scoring": 1.5,
+        "support": 4
+      },
       "moveset": [
         {
           "basic": {
@@ -613,6 +662,13 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "special",
+      "stars": {
+        "offense": 3.5,
+        "endurance": 2,
+        "mobility": 4,
+        "scoring": 3,
+        "support": 0.5
+      },
       "moveset": [
         {
           "basic": {
@@ -703,6 +759,13 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "stars": {
+        "offense": 1.5,
+        "endurance": 4,
+        "mobility": 1,
+        "scoring": 1.5,
+        "support": 4
+      },
       "moveset": [
         {
           "basic": {
@@ -783,6 +846,13 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "stars": {
+        "offense": 1.5,
+        "endurance": 5,
+        "mobility": 2,
+        "scoring": 1.5,
+        "support": 2.5
+      },
       "moveset": [
         {
           "basic": {
@@ -863,6 +933,13 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "stars": {
+        "offense": 3.5,
+        "endurance": 2,
+        "mobility": 4,
+        "scoring": 2.5,
+        "support": 0.5
+      },
       "moveset": [
         {
           "basic": {
@@ -943,6 +1020,13 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "stars": {
+        "offense": 3.5,
+        "endurance": 3.5,
+        "mobility": 2.5,
+        "scoring": 2.5,
+        "support": 0.5
+      },
       "moveset": [
         {
           "basic": {
@@ -1033,6 +1117,13 @@
       "role": "allrounder",
       "lane": "bottom",
       "attack_type": "physical",
+      "stars": {
+        "offense": 3,
+        "endurance": 2.5,
+        "mobility": 3.5,
+        "scoring": 3,
+        "support": 0.5
+      },
       "moveset": [
         {
           "basic": {
@@ -1113,6 +1204,13 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "stars": {
+        "offense": 1.5,
+        "endurance": 4,
+        "mobility": 1.5,
+        "scoring": 2,
+        "support": 3
+      },
       "moveset": [
         {
           "basic": {
@@ -1198,6 +1296,13 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "physical",
+      "stars": {
+        "offense": 4,
+        "endurance": 2,
+        "mobility": 3,
+        "scoring": 3,
+        "support": 0.5
+      },
       "moveset": [
         {
           "basic": {
@@ -1288,6 +1393,13 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "stars": {
+        "offense": 2.5,
+        "endurance": 1.5,
+        "mobility": 5,
+        "scoring": 3.5,
+        "support": 0.5
+      },
       "moveset": [
         {
           "basic": {
@@ -1378,6 +1490,13 @@
       "role": "speedster",
       "lane": "center",
       "attack_type": "physical",
+      "stars": {
+        "offense": 3.5,
+        "endurance": 1.5,
+        "mobility": 4,
+        "scoring": 3,
+        "support": 0.5
+      },
       "moveset": [
         {
           "basic": {
@@ -1458,6 +1577,13 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "physical",
+      "stars": {
+        "offense": 4,
+        "endurance": 1.5,
+        "mobility": 3,
+        "scoring": 2.5,
+        "support": 0.5
+      },
       "moveset": [
         {
           "basic": {
@@ -1548,6 +1674,13 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "stars": {
+        "offense": 1.5,
+        "endurance": 2,
+        "mobility": 2.5,
+        "scoring": 2.5,
+        "support": 4
+      },
       "moveset": [
         {
           "basic": {
@@ -1633,6 +1766,13 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "stars": {
+        "offense": 4,
+        "endurance": 3,
+        "mobility": 3,
+        "scoring": 1.5,
+        "support": 1
+      },
       "moveset": [
         {
           "basic": {
@@ -1713,6 +1853,13 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "stars": {
+        "offense": 4.5,
+        "endurance": 1.5,
+        "mobility": 1.5,
+        "scoring": 3,
+        "support": 1.5
+      },
       "moveset": [
         {
           "basic": {
@@ -1803,6 +1950,13 @@
       "role": "supporter",
       "lane": "bottom",
       "attack_type": "special",
+      "stars": {
+        "offense": 1,
+        "endurance": 3.5,
+        "mobility": 1.5,
+        "scoring": 1.5,
+        "support": 4.5
+      },
       "moveset": [
         {
           "basic": {
@@ -1888,6 +2042,13 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "special",
+      "stars": {
+        "offense": 2,
+        "endurance": 3.5,
+        "mobility": 2,
+        "scoring": 2,
+        "support": 3
+      },
       "moveset": [
         {
           "basic": {
@@ -1978,6 +2139,13 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "stars": {
+        "offense": 2.5,
+        "endurance": 4,
+        "mobility": 2,
+        "scoring": 1.5,
+        "support": 2.5
+      },
       "moveset": [
         {
           "basic": {
@@ -2068,6 +2236,13 @@
       "role": "attacker",
       "lane": "top",
       "attack_type": "special",
+      "stars": {
+        "offense": 3.5,
+        "endurance": 1.5,
+        "mobility": 1.5,
+        "scoring": 3.5,
+        "support": 3.5
+      },
       "moveset": [
         {
           "basic": {
@@ -2153,6 +2328,13 @@
       "role": "defender",
       "lane": "top",
       "attack_type": "physical",
+      "stars": {
+        "offense": 1.5,
+        "endurance": 5,
+        "mobility": 2,
+        "scoring": 1,
+        "support": 3.5
+      },
       "moveset": [
         {
           "basic": {
