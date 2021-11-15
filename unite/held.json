@@ -1,0 +1,3941 @@
+{
+  "held_items": [
+    {
+      "name": "Aeos Cookie",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When the Pokémon scores a goal, its max HP increases by 100.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When the Pokémon scores a goal, its max HP increases by 150.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When the Pokémon scores a goal, its max HP increases by 200.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "HP",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+8"
+            },
+            {
+              "level": "2",
+              "description": "+16"
+            },
+            {
+              "level": "3",
+              "description": "+24"
+            },
+            {
+              "level": "4",
+              "description": "+32"
+            },
+            {
+              "level": "5",
+              "description": "+40"
+            },
+            {
+              "level": "6",
+              "description": "+48"
+            },
+            {
+              "level": "7",
+              "description": "+56"
+            },
+            {
+              "level": "8",
+              "description": "+64"
+            },
+            {
+              "level": "9",
+              "description": "+72"
+            },
+            {
+              "level": "10",
+              "description": "+80"
+            },
+            {
+              "level": "11",
+              "description": "+88"
+            },
+            {
+              "level": "12",
+              "description": "+96"
+            },
+            {
+              "level": "13",
+              "description": "+104"
+            },
+            {
+              "level": "14",
+              "description": "+112"
+            },
+            {
+              "level": "15",
+              "description": "+120"
+            },
+            {
+              "level": "16",
+              "description": "+128"
+            },
+            {
+              "level": "17",
+              "description": "+136"
+            },
+            {
+              "level": "18",
+              "description": "+144"
+            },
+            {
+              "level": "19",
+              "description": "+152"
+            },
+            {
+              "level": "20",
+              "description": "+160"
+            },
+            {
+              "level": "21",
+              "description": "+168"
+            },
+            {
+              "level": "22",
+              "description": "+176"
+            },
+            {
+              "level": "23",
+              "description": "+184"
+            },
+            {
+              "level": "24",
+              "description": "+192"
+            },
+            {
+              "level": "25",
+              "description": "+200"
+            },
+            {
+              "level": "26",
+              "description": "+208"
+            },
+            {
+              "level": "27",
+              "description": "+216"
+            },
+            {
+              "level": "28",
+              "description": "+224"
+            },
+            {
+              "level": "29",
+              "description": "+232"
+            },
+            {
+              "level": "30",
+              "description": "+240"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assault Vest",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When the Pokémon is not combat, it is granted a shield that nullifies Sp. Atk damage equal to 9% of its max HP.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When the Pokémon is not combat, it is granted a shield that nullifies Sp. Atk damage equal to 12% of its max HP.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When the Pokémon is not combat, it is granted a shield that nullifies Sp. Atk damage equal to 15% of its max HP.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "HP",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+18"
+            },
+            {
+              "level": "2",
+              "description": "+18"
+            },
+            {
+              "level": "3",
+              "description": "+36"
+            },
+            {
+              "level": "4",
+              "description": "+36"
+            },
+            {
+              "level": "5",
+              "description": "+54"
+            },
+            {
+              "level": "6",
+              "description": "+54"
+            },
+            {
+              "level": "7",
+              "description": "+72"
+            },
+            {
+              "level": "8",
+              "description": "+72"
+            },
+            {
+              "level": "9",
+              "description": "+90"
+            },
+            {
+              "level": "10",
+              "description": "+90"
+            },
+            {
+              "level": "11",
+              "description": "+108"
+            },
+            {
+              "level": "12",
+              "description": "+108"
+            },
+            {
+              "level": "13",
+              "description": "+126"
+            },
+            {
+              "level": "14",
+              "description": "+126"
+            },
+            {
+              "level": "15",
+              "description": "+144"
+            },
+            {
+              "level": "16",
+              "description": "+144"
+            },
+            {
+              "level": "17",
+              "description": "+162"
+            },
+            {
+              "level": "18",
+              "description": "+162"
+            },
+            {
+              "level": "19",
+              "description": "+180"
+            },
+            {
+              "level": "20",
+              "description": "+180"
+            },
+            {
+              "level": "21",
+              "description": "+198"
+            },
+            {
+              "level": "22",
+              "description": "+198"
+            },
+            {
+              "level": "23",
+              "description": "+216"
+            },
+            {
+              "level": "24",
+              "description": "+216"
+            },
+            {
+              "level": "25",
+              "description": "+234"
+            },
+            {
+              "level": "26",
+              "description": "+234"
+            },
+            {
+              "level": "27",
+              "description": "+242"
+            },
+            {
+              "level": "28",
+              "description": "+242"
+            },
+            {
+              "level": "29",
+              "description": "+260"
+            },
+            {
+              "level": "30",
+              "description": "+260"
+            }
+          ]
+        },
+        {
+          "name": "Sp. Def",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0"
+            },
+            {
+              "level": "2",
+              "description": "+2.8"
+            },
+            {
+              "level": "3",
+              "description": "+2.8"
+            },
+            {
+              "level": "4",
+              "description": "+5.6"
+            },
+            {
+              "level": "5",
+              "description": "+5.6"
+            },
+            {
+              "level": "6",
+              "description": "+8.4"
+            },
+            {
+              "level": "7",
+              "description": "+8.4"
+            },
+            {
+              "level": "8",
+              "description": "+11.2"
+            },
+            {
+              "level": "9",
+              "description": "+11.2"
+            },
+            {
+              "level": "10",
+              "description": "+14"
+            },
+            {
+              "level": "11",
+              "description": "+14"
+            },
+            {
+              "level": "12",
+              "description": "+16.8"
+            },
+            {
+              "level": "13",
+              "description": "+16.8"
+            },
+            {
+              "level": "14",
+              "description": "+19.6"
+            },
+            {
+              "level": "15",
+              "description": "+19.6"
+            },
+            {
+              "level": "16",
+              "description": "+22.4"
+            },
+            {
+              "level": "17",
+              "description": "+22.4"
+            },
+            {
+              "level": "18",
+              "description": "+25.2"
+            },
+            {
+              "level": "19",
+              "description": "+25.2"
+            },
+            {
+              "level": "20",
+              "description": "+28"
+            },
+            {
+              "level": "21",
+              "description": "+28"
+            },
+            {
+              "level": "22",
+              "description": "+30.8"
+            },
+            {
+              "level": "23",
+              "description": "+30.8"
+            },
+            {
+              "level": "24",
+              "description": "+33.6"
+            },
+            {
+              "level": "25",
+              "description": "+33.6"
+            },
+            {
+              "level": "26",
+              "description": "+36.4"
+            },
+            {
+              "level": "27",
+              "description": "+36.4"
+            },
+            {
+              "level": "28",
+              "description": "+39.2"
+            },
+            {
+              "level": "29",
+              "description": "+39.2"
+            },
+            {
+              "level": "30",
+              "description": "+42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attack Weight",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When the Pokémon scores a goal, its Attack increases by 6.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When the Pokémon scores a goal, its Attack increases by 9.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When the Pokémon scores a goal, its Attack increases by 12.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Attack",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0.6"
+            },
+            {
+              "level": "2",
+              "description": "+1.2"
+            },
+            {
+              "level": "3",
+              "description": "+1.8"
+            },
+            {
+              "level": "4",
+              "description": "+2.4"
+            },
+            {
+              "level": "5",
+              "description": "+3"
+            },
+            {
+              "level": "6",
+              "description": "+3.6"
+            },
+            {
+              "level": "7",
+              "description": "+4.2"
+            },
+            {
+              "level": "8",
+              "description": "+4.8"
+            },
+            {
+              "level": "9",
+              "description": "+5.4"
+            },
+            {
+              "level": "10",
+              "description": "+6"
+            },
+            {
+              "level": "11",
+              "description": "+6.6"
+            },
+            {
+              "level": "12",
+              "description": "+7.2"
+            },
+            {
+              "level": "13",
+              "description": "+7.8"
+            },
+            {
+              "level": "14",
+              "description": "+8.4"
+            },
+            {
+              "level": "15",
+              "description": "+9"
+            },
+            {
+              "level": "16",
+              "description": "+9.6"
+            },
+            {
+              "level": "17",
+              "description": "+10.2"
+            },
+            {
+              "level": "18",
+              "description": "+10.8"
+            },
+            {
+              "level": "19",
+              "description": "+11.4"
+            },
+            {
+              "level": "20",
+              "description": "+12"
+            },
+            {
+              "level": "21",
+              "description": "+12.6"
+            },
+            {
+              "level": "22",
+              "description": "+13.2"
+            },
+            {
+              "level": "23",
+              "description": "+13.8"
+            },
+            {
+              "level": "24",
+              "description": "+14.4"
+            },
+            {
+              "level": "25",
+              "description": "+15"
+            },
+            {
+              "level": "26",
+              "description": "+15.6"
+            },
+            {
+              "level": "27",
+              "description": "+16.2"
+            },
+            {
+              "level": "28",
+              "description": "+16.8"
+            },
+            {
+              "level": "29",
+              "description": "+17.4"
+            },
+            {
+              "level": "30",
+              "description": "+18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Buddy Barrier",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When the Pokémon uses its Unite Move, that Pokémon and the nearby ally Pokémon with the lowest HP are each granted a shield equal to 20% of their max HP.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When the Pokémon uses its Unite Move, that Pokémon and the nearby ally Pokémon with the lowest HP are each granted a shield equal to 30% of their max HP.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When the Pokémon uses its Unite Move, that Pokémon and the nearby ally Pokémon with the lowest HP are each granted a shield equal to 40% of their max HP.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "HP",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+20"
+            },
+            {
+              "level": "2",
+              "description": "+40"
+            },
+            {
+              "level": "3",
+              "description": "+60"
+            },
+            {
+              "level": "4",
+              "description": "+80"
+            },
+            {
+              "level": "5",
+              "description": "+100"
+            },
+            {
+              "level": "6",
+              "description": "+120"
+            },
+            {
+              "level": "7",
+              "description": "+140"
+            },
+            {
+              "level": "8",
+              "description": "+160"
+            },
+            {
+              "level": "9",
+              "description": "+180"
+            },
+            {
+              "level": "10",
+              "description": "+200"
+            },
+            {
+              "level": "11",
+              "description": "+220"
+            },
+            {
+              "level": "12",
+              "description": "+240"
+            },
+            {
+              "level": "13",
+              "description": "+260"
+            },
+            {
+              "level": "14",
+              "description": "+280"
+            },
+            {
+              "level": "15",
+              "description": "+300"
+            },
+            {
+              "level": "16",
+              "description": "+320"
+            },
+            {
+              "level": "17",
+              "description": "+340"
+            },
+            {
+              "level": "18",
+              "description": "+360"
+            },
+            {
+              "level": "19",
+              "description": "+380"
+            },
+            {
+              "level": "20",
+              "description": "+400"
+            },
+            {
+              "level": "21",
+              "description": "+420"
+            },
+            {
+              "level": "22",
+              "description": "+440"
+            },
+            {
+              "level": "23",
+              "description": "+460"
+            },
+            {
+              "level": "24",
+              "description": "+480"
+            },
+            {
+              "level": "25",
+              "description": "+500"
+            },
+            {
+              "level": "26",
+              "description": "+520"
+            },
+            {
+              "level": "27",
+              "description": "+540"
+            },
+            {
+              "level": "28",
+              "description": "+560"
+            },
+            {
+              "level": "29",
+              "description": "+580"
+            },
+            {
+              "level": "30",
+              "description": "+600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Choice Specs",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "Adds a minimum of 40 damage to moves when they hit. The higher the Pokémon's Sp. Atk is, the more this additional damage is increased.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "Adds a minimum of 50 damage to moves when they hit. The higher the Pokémon's Sp. Atk is, the more this additional damage is increased.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "Adds a minimum of 60 damage to moves when they hit. The higher the Pokémon's Sp. Atk is, the more this additional damage is increased.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Sp. Atk",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+10"
+            },
+            {
+              "level": "2",
+              "description": "+11"
+            },
+            {
+              "level": "3",
+              "description": "+12"
+            },
+            {
+              "level": "4",
+              "description": "+13"
+            },
+            {
+              "level": "5",
+              "description": "+14"
+            },
+            {
+              "level": "6",
+              "description": "+15"
+            },
+            {
+              "level": "7",
+              "description": "+16"
+            },
+            {
+              "level": "8",
+              "description": "+17"
+            },
+            {
+              "level": "9",
+              "description": "+18"
+            },
+            {
+              "level": "10",
+              "description": "+19"
+            },
+            {
+              "level": "11",
+              "description": "+20"
+            },
+            {
+              "level": "12",
+              "description": "+21"
+            },
+            {
+              "level": "13",
+              "description": "+22"
+            },
+            {
+              "level": "14",
+              "description": "+23"
+            },
+            {
+              "level": "15",
+              "description": "+24"
+            },
+            {
+              "level": "16",
+              "description": "+25"
+            },
+            {
+              "level": "17",
+              "description": "+26"
+            },
+            {
+              "level": "18",
+              "description": "+27"
+            },
+            {
+              "level": "19",
+              "description": "+28"
+            },
+            {
+              "level": "20",
+              "description": "+29"
+            },
+            {
+              "level": "21",
+              "description": "+30"
+            },
+            {
+              "level": "22",
+              "description": "+31"
+            },
+            {
+              "level": "23",
+              "description": "+32"
+            },
+            {
+              "level": "24",
+              "description": "+33"
+            },
+            {
+              "level": "25",
+              "description": "+34"
+            },
+            {
+              "level": "26",
+              "description": "+35"
+            },
+            {
+              "level": "27",
+              "description": "+36"
+            },
+            {
+              "level": "28",
+              "description": "+37"
+            },
+            {
+              "level": "29",
+              "description": "+38"
+            },
+            {
+              "level": "30",
+              "description": "+39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Energy Amplifier",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "After the Pokémon uses its Unite Move, the damage the Pokémon deals is increased by 7% for a short time.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "After the Pokémon uses its Unite Move, the damage the Pokémon deals is increased by 14% for a short time.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "After the Pokémon uses its Unite Move, the damage the Pokémon deals is increased by 21% for a short time.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Unite Move Charge Rate",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0.4%"
+            },
+            {
+              "level": "2",
+              "description": "+0.4%"
+            },
+            {
+              "level": "3",
+              "description": "+0.8%"
+            },
+            {
+              "level": "4",
+              "description": "+0.8%"
+            },
+            {
+              "level": "5",
+              "description": "+1.2%"
+            },
+            {
+              "level": "6",
+              "description": "+1.2%"
+            },
+            {
+              "level": "7",
+              "description": "+1.6%"
+            },
+            {
+              "level": "8",
+              "description": "+1.6%"
+            },
+            {
+              "level": "9",
+              "description": "+2%"
+            },
+            {
+              "level": "10",
+              "description": "+2%"
+            },
+            {
+              "level": "11",
+              "description": "+2.4%"
+            },
+            {
+              "level": "12",
+              "description": "+2.4%"
+            },
+            {
+              "level": "13",
+              "description": "+2.8%"
+            },
+            {
+              "level": "14",
+              "description": "+2.8%"
+            },
+            {
+              "level": "15",
+              "description": "+3.2%"
+            },
+            {
+              "level": "16",
+              "description": "+3.2%"
+            },
+            {
+              "level": "17",
+              "description": "+3.6%"
+            },
+            {
+              "level": "18",
+              "description": "+3.6%"
+            },
+            {
+              "level": "19",
+              "description": "+4%"
+            },
+            {
+              "level": "20",
+              "description": "+4%"
+            },
+            {
+              "level": "21",
+              "description": "+4.4%"
+            },
+            {
+              "level": "22",
+              "description": "+4.4%"
+            },
+            {
+              "level": "23",
+              "description": "+4.8%"
+            },
+            {
+              "level": "24",
+              "description": "+4.8%"
+            },
+            {
+              "level": "25",
+              "description": "+5.2%"
+            },
+            {
+              "level": "26",
+              "description": "+5.2%"
+            },
+            {
+              "level": "27",
+              "description": "+5.6%"
+            },
+            {
+              "level": "28",
+              "description": "+5.6%"
+            },
+            {
+              "level": "29",
+              "description": "+6%"
+            },
+            {
+              "level": "30",
+              "description": "+6%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exp. Share",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "While the Pokémon has the fewest Exp. Points on its team, it gains 2 more Exp. Points per second. In addition, when a nearby teammate defeats a wild Pokémon, that teammate gains slightly more Exp. Points.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "While the Pokémon has the fewest Exp. Points on its team, it gains 3 more Exp. Points per second. In addition, when a nearby teammate defeats a wild Pokémon, that teammate gains slightly more Exp. Points.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "While the Pokémon has the fewest Exp. Points on its team, it gains 4 more Exp. Points per second. In addition, when a nearby teammate defeats a wild Pokémon, that teammate gains slightly more Exp. Points.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "HP",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+16"
+            },
+            {
+              "level": "2",
+              "description": "+16"
+            },
+            {
+              "level": "3",
+              "description": "+32"
+            },
+            {
+              "level": "4",
+              "description": "+32"
+            },
+            {
+              "level": "5",
+              "description": "+48"
+            },
+            {
+              "level": "6",
+              "description": "+48"
+            },
+            {
+              "level": "7",
+              "description": "+64"
+            },
+            {
+              "level": "8",
+              "description": "+64"
+            },
+            {
+              "level": "9",
+              "description": "+80"
+            },
+            {
+              "level": "10",
+              "description": "+80"
+            },
+            {
+              "level": "11",
+              "description": "+96"
+            },
+            {
+              "level": "12",
+              "description": "+96"
+            },
+            {
+              "level": "13",
+              "description": "+112"
+            },
+            {
+              "level": "14",
+              "description": "+112"
+            },
+            {
+              "level": "15",
+              "description": "+128"
+            },
+            {
+              "level": "16",
+              "description": "+128"
+            },
+            {
+              "level": "17",
+              "description": "+144"
+            },
+            {
+              "level": "18",
+              "description": "+144"
+            },
+            {
+              "level": "19",
+              "description": "+160"
+            },
+            {
+              "level": "20",
+              "description": "+160"
+            },
+            {
+              "level": "21",
+              "description": "+176"
+            },
+            {
+              "level": "22",
+              "description": "+176"
+            },
+            {
+              "level": "23",
+              "description": "+192"
+            },
+            {
+              "level": "24",
+              "description": "+192"
+            },
+            {
+              "level": "25",
+              "description": "+208"
+            },
+            {
+              "level": "26",
+              "description": "+208"
+            },
+            {
+              "level": "27",
+              "description": "+224"
+            },
+            {
+              "level": "28",
+              "description": "+224"
+            },
+            {
+              "level": "29",
+              "description": "+240"
+            },
+            {
+              "level": "30",
+              "description": "+240"
+            }
+          ]
+        },
+        {
+          "name": "Movement Speed",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0"
+            },
+            {
+              "level": "2",
+              "description": "+10"
+            },
+            {
+              "level": "3",
+              "description": "+10"
+            },
+            {
+              "level": "4",
+              "description": "+20"
+            },
+            {
+              "level": "5",
+              "description": "+20"
+            },
+            {
+              "level": "6",
+              "description": "+30"
+            },
+            {
+              "level": "7",
+              "description": "+30"
+            },
+            {
+              "level": "8",
+              "description": "+40"
+            },
+            {
+              "level": "9",
+              "description": "+40"
+            },
+            {
+              "level": "10",
+              "description": "+50"
+            },
+            {
+              "level": "11",
+              "description": "+50"
+            },
+            {
+              "level": "12",
+              "description": "+60"
+            },
+            {
+              "level": "13",
+              "description": "+60"
+            },
+            {
+              "level": "14",
+              "description": "+70"
+            },
+            {
+              "level": "15",
+              "description": "+70"
+            },
+            {
+              "level": "16",
+              "description": "+80"
+            },
+            {
+              "level": "17",
+              "description": "+80"
+            },
+            {
+              "level": "18",
+              "description": "+90"
+            },
+            {
+              "level": "19",
+              "description": "+90"
+            },
+            {
+              "level": "20",
+              "description": "+100"
+            },
+            {
+              "level": "21",
+              "description": "+100"
+            },
+            {
+              "level": "22",
+              "description": "+110"
+            },
+            {
+              "level": "23",
+              "description": "+110"
+            },
+            {
+              "level": "24",
+              "description": "+120"
+            },
+            {
+              "level": "25",
+              "description": "+120"
+            },
+            {
+              "level": "26",
+              "description": "+130"
+            },
+            {
+              "level": "27",
+              "description": "+130"
+            },
+            {
+              "level": "28",
+              "description": "+140"
+            },
+            {
+              "level": "29",
+              "description": "+140"
+            },
+            {
+              "level": "30",
+              "description": "+150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Float Stone",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "Increases movement speed by 10% when the Pokémon is not in combat.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "Increases movement speed by 15% when the Pokémon is not in combat.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "Increases movement speed by 20% when the Pokémon is not in combat.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Attack",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+1.6"
+            },
+            {
+              "level": "2",
+              "description": "+1.6"
+            },
+            {
+              "level": "3",
+              "description": "+3.2"
+            },
+            {
+              "level": "4",
+              "description": "+3.2"
+            },
+            {
+              "level": "5",
+              "description": "+4.8"
+            },
+            {
+              "level": "6",
+              "description": "+4.8"
+            },
+            {
+              "level": "7",
+              "description": "+6.4"
+            },
+            {
+              "level": "8",
+              "description": "+6.4"
+            },
+            {
+              "level": "9",
+              "description": "+8"
+            },
+            {
+              "level": "10",
+              "description": "+8"
+            },
+            {
+              "level": "11",
+              "description": "+9.6"
+            },
+            {
+              "level": "12",
+              "description": "+9.6"
+            },
+            {
+              "level": "13",
+              "description": "+11.2"
+            },
+            {
+              "level": "14",
+              "description": "+11.2"
+            },
+            {
+              "level": "15",
+              "description": "+12.8"
+            },
+            {
+              "level": "16",
+              "description": "+12.8"
+            },
+            {
+              "level": "17",
+              "description": "+14.4"
+            },
+            {
+              "level": "18",
+              "description": "+14.4"
+            },
+            {
+              "level": "19",
+              "description": "+16"
+            },
+            {
+              "level": "20",
+              "description": "+16"
+            },
+            {
+              "level": "21",
+              "description": "+17.6"
+            },
+            {
+              "level": "22",
+              "description": "+17.6"
+            },
+            {
+              "level": "23",
+              "description": "+19.2"
+            },
+            {
+              "level": "24",
+              "description": "+19.2"
+            },
+            {
+              "level": "25",
+              "description": "+20.8"
+            },
+            {
+              "level": "26",
+              "description": "+20.8"
+            },
+            {
+              "level": "27",
+              "description": "+22.4"
+            },
+            {
+              "level": "28",
+              "description": "+22.4"
+            },
+            {
+              "level": "29",
+              "description": "+24"
+            },
+            {
+              "level": "30",
+              "description": "+24"
+            }
+          ]
+        },
+        {
+          "name": "Movement Speed",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0"
+            },
+            {
+              "level": "2",
+              "description": "+8"
+            },
+            {
+              "level": "3",
+              "description": "+8"
+            },
+            {
+              "level": "4",
+              "description": "+16"
+            },
+            {
+              "level": "5",
+              "description": "+16"
+            },
+            {
+              "level": "6",
+              "description": "+24"
+            },
+            {
+              "level": "7",
+              "description": "+24"
+            },
+            {
+              "level": "8",
+              "description": "+32"
+            },
+            {
+              "level": "9",
+              "description": "+32"
+            },
+            {
+              "level": "10",
+              "description": "+40"
+            },
+            {
+              "level": "11",
+              "description": "+40"
+            },
+            {
+              "level": "12",
+              "description": "+48"
+            },
+            {
+              "level": "13",
+              "description": "+48"
+            },
+            {
+              "level": "14",
+              "description": "+56"
+            },
+            {
+              "level": "15",
+              "description": "+56"
+            },
+            {
+              "level": "16",
+              "description": "+64"
+            },
+            {
+              "level": "17",
+              "description": "+64"
+            },
+            {
+              "level": "18",
+              "description": "+72"
+            },
+            {
+              "level": "19",
+              "description": "+72"
+            },
+            {
+              "level": "20",
+              "description": "+80"
+            },
+            {
+              "level": "21",
+              "description": "+80"
+            },
+            {
+              "level": "22",
+              "description": "+88"
+            },
+            {
+              "level": "23",
+              "description": "+88"
+            },
+            {
+              "level": "24",
+              "description": "+96"
+            },
+            {
+              "level": "25",
+              "description": "+96"
+            },
+            {
+              "level": "26",
+              "description": "+104"
+            },
+            {
+              "level": "27",
+              "description": "+104"
+            },
+            {
+              "level": "28",
+              "description": "+112"
+            },
+            {
+              "level": "29",
+              "description": "+112"
+            },
+            {
+              "level": "30",
+              "description": "+120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Focus Band",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When the Pokémon drops to low HP, then each second for three seconds, it recovers 8% of the HP it had lost.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When the Pokémon drops to low HP, then each second for three seconds, it recovers 11% of the HP it had lost.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When the Pokémon drops to low HP, then each second for three seconds, it recovers 14% of the HP it had lost.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Defense",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+2"
+            },
+            {
+              "level": "2",
+              "description": "+2"
+            },
+            {
+              "level": "3",
+              "description": "+4"
+            },
+            {
+              "level": "4",
+              "description": "+4"
+            },
+            {
+              "level": "5",
+              "description": "+6"
+            },
+            {
+              "level": "6",
+              "description": "+6"
+            },
+            {
+              "level": "7",
+              "description": "+8"
+            },
+            {
+              "level": "8",
+              "description": "+8"
+            },
+            {
+              "level": "9",
+              "description": "+10"
+            },
+            {
+              "level": "10",
+              "description": "+10"
+            },
+            {
+              "level": "11",
+              "description": "+12"
+            },
+            {
+              "level": "12",
+              "description": "+12"
+            },
+            {
+              "level": "13",
+              "description": "+14"
+            },
+            {
+              "level": "14",
+              "description": "+14"
+            },
+            {
+              "level": "15",
+              "description": "+16"
+            },
+            {
+              "level": "16",
+              "description": "+16"
+            },
+            {
+              "level": "17",
+              "description": "+18"
+            },
+            {
+              "level": "18",
+              "description": "+18"
+            },
+            {
+              "level": "19",
+              "description": "+20"
+            },
+            {
+              "level": "20",
+              "description": "+20"
+            },
+            {
+              "level": "21",
+              "description": "+22"
+            },
+            {
+              "level": "22",
+              "description": "+22"
+            },
+            {
+              "level": "23",
+              "description": "+24"
+            },
+            {
+              "level": "24",
+              "description": "+24"
+            },
+            {
+              "level": "25",
+              "description": "+26"
+            },
+            {
+              "level": "26",
+              "description": "+26"
+            },
+            {
+              "level": "27",
+              "description": "+28"
+            },
+            {
+              "level": "28",
+              "description": "+28"
+            },
+            {
+              "level": "29",
+              "description": "+30"
+            },
+            {
+              "level": "30",
+              "description": "+30"
+            }
+          ]
+        },
+        {
+          "name": "Sp. Def",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0"
+            },
+            {
+              "level": "2",
+              "description": "+2"
+            },
+            {
+              "level": "3",
+              "description": "+4"
+            },
+            {
+              "level": "4",
+              "description": "+4"
+            },
+            {
+              "level": "5",
+              "description": "+6"
+            },
+            {
+              "level": "6",
+              "description": "+6"
+            },
+            {
+              "level": "7",
+              "description": "+8"
+            },
+            {
+              "level": "8",
+              "description": "+8"
+            },
+            {
+              "level": "9",
+              "description": "+10"
+            },
+            {
+              "level": "10",
+              "description": "+10"
+            },
+            {
+              "level": "11",
+              "description": "+12"
+            },
+            {
+              "level": "12",
+              "description": "+12"
+            },
+            {
+              "level": "13",
+              "description": "+14"
+            },
+            {
+              "level": "14",
+              "description": "+14"
+            },
+            {
+              "level": "15",
+              "description": "+16"
+            },
+            {
+              "level": "16",
+              "description": "+16"
+            },
+            {
+              "level": "17",
+              "description": "+18"
+            },
+            {
+              "level": "18",
+              "description": "+18"
+            },
+            {
+              "level": "19",
+              "description": "+20"
+            },
+            {
+              "level": "20",
+              "description": "+20"
+            },
+            {
+              "level": "21",
+              "description": "+22"
+            },
+            {
+              "level": "22",
+              "description": "+22"
+            },
+            {
+              "level": "23",
+              "description": "+24"
+            },
+            {
+              "level": "24",
+              "description": "+24"
+            },
+            {
+              "level": "25",
+              "description": "+26"
+            },
+            {
+              "level": "26",
+              "description": "+26"
+            },
+            {
+              "level": "27",
+              "description": "+28"
+            },
+            {
+              "level": "28",
+              "description": "+28"
+            },
+            {
+              "level": "29",
+              "description": "+30"
+            },
+            {
+              "level": "30",
+              "description": "+30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leftovers",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When the Pokémon is not in combat, it recovers 1% of its max HP every second.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When the Pokémon is not in combat, it recovers 1.5% of its max HP every second.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When the Pokémon is not in combat, it recovers 2% of its max HP every second.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "HP",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+16"
+            },
+            {
+              "level": "2",
+              "description": "+16"
+            },
+            {
+              "level": "3",
+              "description": "+32"
+            },
+            {
+              "level": "4",
+              "description": "+32"
+            },
+            {
+              "level": "5",
+              "description": "+48"
+            },
+            {
+              "level": "6",
+              "description": "+48"
+            },
+            {
+              "level": "7",
+              "description": "+64"
+            },
+            {
+              "level": "8",
+              "description": "+64"
+            },
+            {
+              "level": "9",
+              "description": "+80"
+            },
+            {
+              "level": "10",
+              "description": "+80"
+            },
+            {
+              "level": "11",
+              "description": "+96"
+            },
+            {
+              "level": "12",
+              "description": "+96"
+            },
+            {
+              "level": "13",
+              "description": "+112"
+            },
+            {
+              "level": "14",
+              "description": "+112"
+            },
+            {
+              "level": "15",
+              "description": "+128"
+            },
+            {
+              "level": "16",
+              "description": "+128"
+            },
+            {
+              "level": "17",
+              "description": "+144"
+            },
+            {
+              "level": "18",
+              "description": "+144"
+            },
+            {
+              "level": "19",
+              "description": "+160"
+            },
+            {
+              "level": "20",
+              "description": "+160"
+            },
+            {
+              "level": "21",
+              "description": "+176"
+            },
+            {
+              "level": "22",
+              "description": "+176"
+            },
+            {
+              "level": "23",
+              "description": "+192"
+            },
+            {
+              "level": "24",
+              "description": "+192"
+            },
+            {
+              "level": "25",
+              "description": "+208"
+            },
+            {
+              "level": "26",
+              "description": "+208"
+            },
+            {
+              "level": "27",
+              "description": "+224"
+            },
+            {
+              "level": "28",
+              "description": "+224"
+            },
+            {
+              "level": "29",
+              "description": "+240"
+            },
+            {
+              "level": "30",
+              "description": "+240"
+            }
+          ]
+        },
+        {
+          "name": "HP Recovery",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0"
+            },
+            {
+              "level": "2",
+              "description": "+0.6"
+            },
+            {
+              "level": "3",
+              "description": "+0.6"
+            },
+            {
+              "level": "4",
+              "description": "+1.2"
+            },
+            {
+              "level": "5",
+              "description": "+1.2"
+            },
+            {
+              "level": "6",
+              "description": "+1.8"
+            },
+            {
+              "level": "7",
+              "description": "+1.8"
+            },
+            {
+              "level": "8",
+              "description": "+2.4"
+            },
+            {
+              "level": "9",
+              "description": "+2.4"
+            },
+            {
+              "level": "10",
+              "description": "+3"
+            },
+            {
+              "level": "11",
+              "description": "+3"
+            },
+            {
+              "level": "12",
+              "description": "+3.6"
+            },
+            {
+              "level": "13",
+              "description": "+3.6"
+            },
+            {
+              "level": "14",
+              "description": "+4.2"
+            },
+            {
+              "level": "15",
+              "description": "+4.2"
+            },
+            {
+              "level": "16",
+              "description": "+4.8"
+            },
+            {
+              "level": "17",
+              "description": "+4.8"
+            },
+            {
+              "level": "18",
+              "description": "+5.4"
+            },
+            {
+              "level": "19",
+              "description": "+5.4"
+            },
+            {
+              "level": "20",
+              "description": "+6"
+            },
+            {
+              "level": "21",
+              "description": "+6"
+            },
+            {
+              "level": "22",
+              "description": "+6.6"
+            },
+            {
+              "level": "23",
+              "description": "+6.6"
+            },
+            {
+              "level": "24",
+              "description": "+7.2"
+            },
+            {
+              "level": "25",
+              "description": "+7.2"
+            },
+            {
+              "level": "26",
+              "description": "+7.8"
+            },
+            {
+              "level": "27",
+              "description": "+7.8"
+            },
+            {
+              "level": "28",
+              "description": "+8.4"
+            },
+            {
+              "level": "29",
+              "description": "+8.4"
+            },
+            {
+              "level": "30",
+              "description": "+9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muscle Band",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When basic attacks hit, the damage is increased by 1% of the opposing Pokémon's remaining HP.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When basic attacks hit, the damage is increased by 2% of the opposing Pokémon's remaining HP.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When basic attacks hit, the damage is increased by 3% of the opposing Pokémon's remaining HP.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Attack",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+1"
+            },
+            {
+              "level": "2",
+              "description": "+1"
+            },
+            {
+              "level": "3",
+              "description": "+2"
+            },
+            {
+              "level": "4",
+              "description": "+2"
+            },
+            {
+              "level": "5",
+              "description": "+3"
+            },
+            {
+              "level": "6",
+              "description": "+3"
+            },
+            {
+              "level": "7",
+              "description": "+4"
+            },
+            {
+              "level": "8",
+              "description": "+4"
+            },
+            {
+              "level": "9",
+              "description": "+5"
+            },
+            {
+              "level": "10",
+              "description": "+5"
+            },
+            {
+              "level": "11",
+              "description": "+6"
+            },
+            {
+              "level": "12",
+              "description": "+6"
+            },
+            {
+              "level": "13",
+              "description": "+7"
+            },
+            {
+              "level": "14",
+              "description": "+7"
+            },
+            {
+              "level": "15",
+              "description": "+8"
+            },
+            {
+              "level": "16",
+              "description": "+8"
+            },
+            {
+              "level": "17",
+              "description": "+9"
+            },
+            {
+              "level": "18",
+              "description": "+9"
+            },
+            {
+              "level": "19",
+              "description": "+10"
+            },
+            {
+              "level": "20",
+              "description": "+10"
+            },
+            {
+              "level": "21",
+              "description": "+11"
+            },
+            {
+              "level": "22",
+              "description": "+11"
+            },
+            {
+              "level": "23",
+              "description": "+12"
+            },
+            {
+              "level": "24",
+              "description": "+12"
+            },
+            {
+              "level": "25",
+              "description": "+13"
+            },
+            {
+              "level": "26",
+              "description": "+13"
+            },
+            {
+              "level": "27",
+              "description": "+14"
+            },
+            {
+              "level": "28",
+              "description": "+14"
+            },
+            {
+              "level": "29",
+              "description": "+15"
+            },
+            {
+              "level": "30",
+              "description": "+15"
+            }
+          ]
+        },
+        {
+          "name": "Basic Attack Speed",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0"
+            },
+            {
+              "level": "2",
+              "description": "+0.5"
+            },
+            {
+              "level": "3",
+              "description": "+0.5"
+            },
+            {
+              "level": "4",
+              "description": "+1"
+            },
+            {
+              "level": "5",
+              "description": "+1"
+            },
+            {
+              "level": "6",
+              "description": "+1.5"
+            },
+            {
+              "level": "7",
+              "description": "+1.5"
+            },
+            {
+              "level": "8",
+              "description": "+2"
+            },
+            {
+              "level": "9",
+              "description": "+2"
+            },
+            {
+              "level": "10",
+              "description": "+2.5"
+            },
+            {
+              "level": "11",
+              "description": "+2.5"
+            },
+            {
+              "level": "12",
+              "description": "+3"
+            },
+            {
+              "level": "13",
+              "description": "+3"
+            },
+            {
+              "level": "14",
+              "description": "+3.5"
+            },
+            {
+              "level": "15",
+              "description": "+3.5"
+            },
+            {
+              "level": "16",
+              "description": "+4"
+            },
+            {
+              "level": "17",
+              "description": "+4"
+            },
+            {
+              "level": "18",
+              "description": "+4.5"
+            },
+            {
+              "level": "19",
+              "description": "+4.5"
+            },
+            {
+              "level": "20",
+              "description": "+5"
+            },
+            {
+              "level": "21",
+              "description": "+5"
+            },
+            {
+              "level": "22",
+              "description": "+5.5"
+            },
+            {
+              "level": "23",
+              "description": "+5.5"
+            },
+            {
+              "level": "24",
+              "description": "+6"
+            },
+            {
+              "level": "25",
+              "description": "+6"
+            },
+            {
+              "level": "26",
+              "description": "+6.5"
+            },
+            {
+              "level": "27",
+              "description": "+6.5"
+            },
+            {
+              "level": "28",
+              "description": "+7"
+            },
+            {
+              "level": "29",
+              "description": "+7"
+            },
+            {
+              "level": "30",
+              "description": "+7.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Razor Claw",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "After this Pokémon uses a move, a minimum of 10 damage is added to its next basic attack. The higher the Pokémon's attack is, the more this additional damage is increased. When this item is held by a melee Pokémon, this additional damage also decreases the movement speed of opposing Pokémon for a short time.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "After this Pokémon uses a move, a minimum of 15 damage is added to its next basic attack. The higher the Pokémon's attack is, the more this additional damage is increased. When this item is held by a melee Pokémon, this additional damage also decreases the movement speed of opposing Pokémon for a short time.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "After this Pokémon uses a move, a minimum of 20 damage is added to its next basic attack. The higher the Pokémon's attack is, the more this additional damage is increased. When this item is held by a melee Pokémon, this additional damage also decreases the movement speed of opposing Pokémon for a short time.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Attack",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+1"
+            },
+            {
+              "level": "2",
+              "description": "+1"
+            },
+            {
+              "level": "3",
+              "description": "+2"
+            },
+            {
+              "level": "4",
+              "description": "+2"
+            },
+            {
+              "level": "5",
+              "description": "+3"
+            },
+            {
+              "level": "6",
+              "description": "+3"
+            },
+            {
+              "level": "7",
+              "description": "+4"
+            },
+            {
+              "level": "8",
+              "description": "+4"
+            },
+            {
+              "level": "9",
+              "description": "+5"
+            },
+            {
+              "level": "10",
+              "description": "+5"
+            },
+            {
+              "level": "11",
+              "description": "+6"
+            },
+            {
+              "level": "12",
+              "description": "+6"
+            },
+            {
+              "level": "13",
+              "description": "+7"
+            },
+            {
+              "level": "14",
+              "description": "+7"
+            },
+            {
+              "level": "15",
+              "description": "+8"
+            },
+            {
+              "level": "16",
+              "description": "+8"
+            },
+            {
+              "level": "17",
+              "description": "+9"
+            },
+            {
+              "level": "18",
+              "description": "+9"
+            },
+            {
+              "level": "19",
+              "description": "+10"
+            },
+            {
+              "level": "20",
+              "description": "+10"
+            },
+            {
+              "level": "21",
+              "description": "+11"
+            },
+            {
+              "level": "22",
+              "description": "+11"
+            },
+            {
+              "level": "23",
+              "description": "+12"
+            },
+            {
+              "level": "24",
+              "description": "+12"
+            },
+            {
+              "level": "25",
+              "description": "+13"
+            },
+            {
+              "level": "26",
+              "description": "+13"
+            },
+            {
+              "level": "27",
+              "description": "+14"
+            },
+            {
+              "level": "28",
+              "description": "+14"
+            },
+            {
+              "level": "29",
+              "description": "+15"
+            },
+            {
+              "level": "30",
+              "description": "+15"
+            }
+          ]
+        },
+        {
+          "name": "Critical-Hit Rate",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0.6"
+            },
+            {
+              "level": "2",
+              "description": "+0.7"
+            },
+            {
+              "level": "3",
+              "description": "+0.7"
+            },
+            {
+              "level": "4",
+              "description": "+0.8"
+            },
+            {
+              "level": "5",
+              "description": "+0.8"
+            },
+            {
+              "level": "6",
+              "description": "+0.9"
+            },
+            {
+              "level": "7",
+              "description": "+0.9"
+            },
+            {
+              "level": "8",
+              "description": "+1"
+            },
+            {
+              "level": "9",
+              "description": "+1"
+            },
+            {
+              "level": "10",
+              "description": "+1.1"
+            },
+            {
+              "level": "11",
+              "description": "+1.1"
+            },
+            {
+              "level": "12",
+              "description": "+1.2"
+            },
+            {
+              "level": "13",
+              "description": "+1.2"
+            },
+            {
+              "level": "14",
+              "description": "+1.3"
+            },
+            {
+              "level": "15",
+              "description": "+1.3"
+            },
+            {
+              "level": "16",
+              "description": "+1.4"
+            },
+            {
+              "level": "17",
+              "description": "+1.4"
+            },
+            {
+              "level": "18",
+              "description": "+1.5"
+            },
+            {
+              "level": "19",
+              "description": "+1.5"
+            },
+            {
+              "level": "20",
+              "description": "+1.6"
+            },
+            {
+              "level": "21",
+              "description": "+1.6"
+            },
+            {
+              "level": "22",
+              "description": "+1.7"
+            },
+            {
+              "level": "23",
+              "description": "+1.7"
+            },
+            {
+              "level": "24",
+              "description": "+1.8"
+            },
+            {
+              "level": "25",
+              "description": "+1.8"
+            },
+            {
+              "level": "26",
+              "description": "+1.9"
+            },
+            {
+              "level": "27",
+              "description": "+1.9"
+            },
+            {
+              "level": "28",
+              "description": "+2"
+            },
+            {
+              "level": "29",
+              "description": "+2"
+            },
+            {
+              "level": "30",
+              "description": "+2.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rocky Helmet",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When the Pokémon receives a certain amount of damage, damage is dealt to nearby opposing Pokémon equal to 3% of those Pokémon's max HP.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When the Pokémon receives a certain amount of damage, damage is dealt to nearby opposing Pokémon equal to 4% of those Pokémon's max HP.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When the Pokémon receives a certain amount of damage, damage is dealt to nearby opposing Pokémon equal to 5% of those Pokémon's max HP.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "HP",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+18"
+            },
+            {
+              "level": "2",
+              "description": "+18"
+            },
+            {
+              "level": "3",
+              "description": "+36"
+            },
+            {
+              "level": "4",
+              "description": "+36"
+            },
+            {
+              "level": "5",
+              "description": "+54"
+            },
+            {
+              "level": "6",
+              "description": "+54"
+            },
+            {
+              "level": "7",
+              "description": "+72"
+            },
+            {
+              "level": "8",
+              "description": "+72"
+            },
+            {
+              "level": "9",
+              "description": "+90"
+            },
+            {
+              "level": "10",
+              "description": "+90"
+            },
+            {
+              "level": "11",
+              "description": "+108"
+            },
+            {
+              "level": "12",
+              "description": "+108"
+            },
+            {
+              "level": "13",
+              "description": "+126"
+            },
+            {
+              "level": "14",
+              "description": "+126"
+            },
+            {
+              "level": "15",
+              "description": "+144"
+            },
+            {
+              "level": "16",
+              "description": "+144"
+            },
+            {
+              "level": "17",
+              "description": "+162"
+            },
+            {
+              "level": "18",
+              "description": "+162"
+            },
+            {
+              "level": "19",
+              "description": "+180"
+            },
+            {
+              "level": "20",
+              "description": "+180"
+            },
+            {
+              "level": "21",
+              "description": "+198"
+            },
+            {
+              "level": "22",
+              "description": "+198"
+            },
+            {
+              "level": "23",
+              "description": "+216"
+            },
+            {
+              "level": "24",
+              "description": "+216"
+            },
+            {
+              "level": "25",
+              "description": "+234"
+            },
+            {
+              "level": "26",
+              "description": "+234"
+            },
+            {
+              "level": "27",
+              "description": "+252"
+            },
+            {
+              "level": "28",
+              "description": "+252"
+            },
+            {
+              "level": "29",
+              "description": "+270"
+            },
+            {
+              "level": "30",
+              "description": "+270"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scope Lens",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "Increases the damage of basic attack critical hits. The higher the Pokémon's Attack, the more this damage increases.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "Increases the damage of basic attack critical hits. The higher the Pokémon's Attack, the more this damage increases.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "Increases the damage of basic attack critical hits. The higher the Pokémon's Attack, the more this damage increases.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Critical-Hit Rate",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0.4%"
+            },
+            {
+              "level": "2",
+              "description": "+0.4%"
+            },
+            {
+              "level": "3",
+              "description": "+0.8%"
+            },
+            {
+              "level": "4",
+              "description": "+0.8%"
+            },
+            {
+              "level": "5",
+              "description": "+1.2%"
+            },
+            {
+              "level": "6",
+              "description": "+1.2%"
+            },
+            {
+              "level": "7",
+              "description": "+1.6%"
+            },
+            {
+              "level": "8",
+              "description": "+1.6%"
+            },
+            {
+              "level": "9",
+              "description": "+2%"
+            },
+            {
+              "level": "10",
+              "description": "+2%"
+            },
+            {
+              "level": "11",
+              "description": "+2.4%"
+            },
+            {
+              "level": "12",
+              "description": "+2.4%"
+            },
+            {
+              "level": "13",
+              "description": "+2.8%"
+            },
+            {
+              "level": "14",
+              "description": "+2.8%"
+            },
+            {
+              "level": "15",
+              "description": "+3.2%"
+            },
+            {
+              "level": "16",
+              "description": "+3.2%"
+            },
+            {
+              "level": "17",
+              "description": "+3.6%"
+            },
+            {
+              "level": "18",
+              "description": "+3.6%"
+            },
+            {
+              "level": "19",
+              "description": "+4%"
+            },
+            {
+              "level": "20",
+              "description": "+4%"
+            },
+            {
+              "level": "21",
+              "description": "+4.4%"
+            },
+            {
+              "level": "22",
+              "description": "+4.4%"
+            },
+            {
+              "level": "23",
+              "description": "+4.8%"
+            },
+            {
+              "level": "24",
+              "description": "+4.8%"
+            },
+            {
+              "level": "25",
+              "description": "+5.2%"
+            },
+            {
+              "level": "26",
+              "description": "+5.2%"
+            },
+            {
+              "level": "27",
+              "description": "+5.6%"
+            },
+            {
+              "level": "28",
+              "description": "+5.6%"
+            },
+            {
+              "level": "29",
+              "description": "+6%"
+            },
+            {
+              "level": "30",
+              "description": "+6%"
+            }
+          ]
+        },
+        {
+          "name": "Critical Hit Damage",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0%"
+            },
+            {
+              "level": "2",
+              "description": "+0.8%"
+            },
+            {
+              "level": "3",
+              "description": "+0.8%"
+            },
+            {
+              "level": "4",
+              "description": "+1.6%"
+            },
+            {
+              "level": "5",
+              "description": "+1.6%"
+            },
+            {
+              "level": "6",
+              "description": "+2.4%"
+            },
+            {
+              "level": "7",
+              "description": "+2.4%"
+            },
+            {
+              "level": "8",
+              "description": "+3.2%"
+            },
+            {
+              "level": "9",
+              "description": "+3.2%"
+            },
+            {
+              "level": "10",
+              "description": "+4%"
+            },
+            {
+              "level": "11",
+              "description": "+4%"
+            },
+            {
+              "level": "12",
+              "description": "+4.8%"
+            },
+            {
+              "level": "13",
+              "description": "+4.8%"
+            },
+            {
+              "level": "14",
+              "description": "+5.6%"
+            },
+            {
+              "level": "15",
+              "description": "+5.6%"
+            },
+            {
+              "level": "16",
+              "description": "+6.4%"
+            },
+            {
+              "level": "17",
+              "description": "+6.4%"
+            },
+            {
+              "level": "18",
+              "description": "+7.2%"
+            },
+            {
+              "level": "19",
+              "description": "+7.2%"
+            },
+            {
+              "level": "20",
+              "description": "+8%"
+            },
+            {
+              "level": "21",
+              "description": "+8%"
+            },
+            {
+              "level": "22",
+              "description": "+8.8%"
+            },
+            {
+              "level": "23",
+              "description": "+8.8%"
+            },
+            {
+              "level": "24",
+              "description": "+9.6%"
+            },
+            {
+              "level": "25",
+              "description": "+9.6%"
+            },
+            {
+              "level": "26",
+              "description": "+10.4%"
+            },
+            {
+              "level": "27",
+              "description": "+10.4%"
+            },
+            {
+              "level": "28",
+              "description": "+11.2%"
+            },
+            {
+              "level": "29",
+              "description": "+11.2%"
+            },
+            {
+              "level": "30",
+              "description": "+12%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Score Shield",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "While the Pokémon is attempting to score a goal, it is granted a shield equal to 5% of its max HP and its goals cannot be interrupted while it is shielded.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "While the Pokémon is attempting to score a goal, it is granted a shield equal to 7.5% of its max HP and its goals cannot be interrupted while it is shielded.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "While the Pokémon is attempting to score a goal, it is granted a shield equal to 10% of its max HP and its goals cannot be interrupted while it is shielded.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "HP",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+15"
+            },
+            {
+              "level": "2",
+              "description": "+30"
+            },
+            {
+              "level": "3",
+              "description": "+45"
+            },
+            {
+              "level": "4",
+              "description": "+60"
+            },
+            {
+              "level": "5",
+              "description": "+75"
+            },
+            {
+              "level": "6",
+              "description": "+90"
+            },
+            {
+              "level": "7",
+              "description": "+105"
+            },
+            {
+              "level": "8",
+              "description": "+120"
+            },
+            {
+              "level": "9",
+              "description": "+135"
+            },
+            {
+              "level": "10",
+              "description": "+150"
+            },
+            {
+              "level": "11",
+              "description": "+165"
+            },
+            {
+              "level": "12",
+              "description": "+180"
+            },
+            {
+              "level": "13",
+              "description": "+195"
+            },
+            {
+              "level": "14",
+              "description": "+210"
+            },
+            {
+              "level": "15",
+              "description": "+225"
+            },
+            {
+              "level": "16",
+              "description": "+240"
+            },
+            {
+              "level": "17",
+              "description": "+255"
+            },
+            {
+              "level": "18",
+              "description": "+270"
+            },
+            {
+              "level": "19",
+              "description": "+285"
+            },
+            {
+              "level": "20",
+              "description": "+300"
+            },
+            {
+              "level": "21",
+              "description": "+315"
+            },
+            {
+              "level": "22",
+              "description": "+330"
+            },
+            {
+              "level": "23",
+              "description": "+345"
+            },
+            {
+              "level": "24",
+              "description": "+360"
+            },
+            {
+              "level": "25",
+              "description": "+375"
+            },
+            {
+              "level": "26",
+              "description": "+390"
+            },
+            {
+              "level": "27",
+              "description": "+405"
+            },
+            {
+              "level": "28",
+              "description": "+420"
+            },
+            {
+              "level": "29",
+              "description": "+435"
+            },
+            {
+              "level": "30",
+              "description": "+450"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shell Bell",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When the Pokémon hits with a move, it recovers a minimum of 45 HP. The higher the Pokémon's Sp. Atk, the more HP it recovers.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When the Pokémon hits with a move, it recovers a minimum of 60 HP. The higher the Pokémon's Sp. Atk, the more HP it recovers.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When the Pokémon hits with a move, it recovers a minimum of 75 HP. The higher the Pokémon's Sp. Atk, the more HP it recovers.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Sp. Atk",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+1.6"
+            },
+            {
+              "level": "2",
+              "description": "+1.6"
+            },
+            {
+              "level": "3",
+              "description": "+3.2"
+            },
+            {
+              "level": "4",
+              "description": "+3.2"
+            },
+            {
+              "level": "5",
+              "description": "+4.8"
+            },
+            {
+              "level": "6",
+              "description": "+4.8"
+            },
+            {
+              "level": "7",
+              "description": "+6.4"
+            },
+            {
+              "level": "8",
+              "description": "+6.4"
+            },
+            {
+              "level": "9",
+              "description": "+8"
+            },
+            {
+              "level": "10",
+              "description": "+8"
+            },
+            {
+              "level": "11",
+              "description": "+9.6"
+            },
+            {
+              "level": "12",
+              "description": "+9.6"
+            },
+            {
+              "level": "13",
+              "description": "+11.2"
+            },
+            {
+              "level": "14",
+              "description": "+11.2"
+            },
+            {
+              "level": "15",
+              "description": "+12.8"
+            },
+            {
+              "level": "16",
+              "description": "+12.8"
+            },
+            {
+              "level": "17",
+              "description": "+14.4"
+            },
+            {
+              "level": "18",
+              "description": "+14.4"
+            },
+            {
+              "level": "19",
+              "description": "+16"
+            },
+            {
+              "level": "20",
+              "description": "+16"
+            },
+            {
+              "level": "21",
+              "description": "+17.6"
+            },
+            {
+              "level": "22",
+              "description": "+17.6"
+            },
+            {
+              "level": "23",
+              "description": "+19.2"
+            },
+            {
+              "level": "24",
+              "description": "+19.2"
+            },
+            {
+              "level": "25",
+              "description": "+20.8"
+            },
+            {
+              "level": "26",
+              "description": "+20.8"
+            },
+            {
+              "level": "27",
+              "description": "+22.4"
+            },
+            {
+              "level": "28",
+              "description": "+22.4"
+            },
+            {
+              "level": "29",
+              "description": "+24"
+            },
+            {
+              "level": "30",
+              "description": "+24"
+            }
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "detail": [
+            {
+              "level": "1",
+              "description": "-0%"
+            },
+            {
+              "level": "2",
+              "description": "-0.3%"
+            },
+            {
+              "level": "3",
+              "description": "-0.3%"
+            },
+            {
+              "level": "4",
+              "description": "-0.6%"
+            },
+            {
+              "level": "5",
+              "description": "-0.6%"
+            },
+            {
+              "level": "6",
+              "description": "-0.9%"
+            },
+            {
+              "level": "7",
+              "description": "-0.9%"
+            },
+            {
+              "level": "8",
+              "description": "-1.2%"
+            },
+            {
+              "level": "9",
+              "description": "-1.2%"
+            },
+            {
+              "level": "10",
+              "description": "-1.5%"
+            },
+            {
+              "level": "11",
+              "description": "-1.5%"
+            },
+            {
+              "level": "12",
+              "description": "-1.8%"
+            },
+            {
+              "level": "13",
+              "description": "-1.8%"
+            },
+            {
+              "level": "14",
+              "description": "-2.1%"
+            },
+            {
+              "level": "15",
+              "description": "-2.1%"
+            },
+            {
+              "level": "16",
+              "description": "-2.4%"
+            },
+            {
+              "level": "17",
+              "description": "-2.4%"
+            },
+            {
+              "level": "18",
+              "description": "-2.7%"
+            },
+            {
+              "level": "19",
+              "description": "-2.7%"
+            },
+            {
+              "level": "20",
+              "description": "-3%"
+            },
+            {
+              "level": "21",
+              "description": "-3%"
+            },
+            {
+              "level": "22",
+              "description": "-3.3%"
+            },
+            {
+              "level": "23",
+              "description": "-3.3%"
+            },
+            {
+              "level": "24",
+              "description": "-3.6%"
+            },
+            {
+              "level": "25",
+              "description": "-3.6%"
+            },
+            {
+              "level": "26",
+              "description": "-3.9%"
+            },
+            {
+              "level": "27",
+              "description": "-3.9%"
+            },
+            {
+              "level": "28",
+              "description": "-4.2%"
+            },
+            {
+              "level": "29",
+              "description": "-4.2%"
+            },
+            {
+              "level": "30",
+              "description": "-4.5%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sp. Atk Specs",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "When the Pokémon scores a goal, its Sp. Atk increases by 8.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "When the Pokémon scores a goal, its Sp. Atk increases by 12.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "When the Pokémon scores a goal, its Sp. Atk increases by 16.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Sp. Atk",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+10"
+            },
+            {
+              "level": "2",
+              "description": "+11"
+            },
+            {
+              "level": "3",
+              "description": "+12"
+            },
+            {
+              "level": "4",
+              "description": "+13"
+            },
+            {
+              "level": "5",
+              "description": "+14"
+            },
+            {
+              "level": "6",
+              "description": "+15"
+            },
+            {
+              "level": "7",
+              "description": "+16"
+            },
+            {
+              "level": "8",
+              "description": "+17"
+            },
+            {
+              "level": "9",
+              "description": "+18"
+            },
+            {
+              "level": "10",
+              "description": "+19"
+            },
+            {
+              "level": "11",
+              "description": "+20"
+            },
+            {
+              "level": "12",
+              "description": "+21"
+            },
+            {
+              "level": "13",
+              "description": "+22"
+            },
+            {
+              "level": "14",
+              "description": "+23"
+            },
+            {
+              "level": "15",
+              "description": "+24"
+            },
+            {
+              "level": "16",
+              "description": "+25"
+            },
+            {
+              "level": "17",
+              "description": "+26"
+            },
+            {
+              "level": "18",
+              "description": "+27"
+            },
+            {
+              "level": "19",
+              "description": "+28"
+            },
+            {
+              "level": "20",
+              "description": "+29"
+            },
+            {
+              "level": "21",
+              "description": "+30"
+            },
+            {
+              "level": "22",
+              "description": "+31"
+            },
+            {
+              "level": "23",
+              "description": "+32"
+            },
+            {
+              "level": "24",
+              "description": "+33"
+            },
+            {
+              "level": "25",
+              "description": "+34"
+            },
+            {
+              "level": "26",
+              "description": "+35"
+            },
+            {
+              "level": "27",
+              "description": "+36"
+            },
+            {
+              "level": "28",
+              "description": "+37"
+            },
+            {
+              "level": "29",
+              "description": "+38"
+            },
+            {
+              "level": "30",
+              "description": "+39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weakness Policy",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "Increases the Pokémon's Attack for a short time by a minimum of 2% when the Pokémon receives damage. This increase grows larger the more times damage is received.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "Increases the Pokémon's Attack for a short time by a minimum of 2.5% when the Pokémon receives damage. This increase grows larger the more times damage is received.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "Increases the Pokémon's Attack for a short time by a minimum of 3% when the Pokémon receives damage. This increase grows larger the more times damage is received.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "HP",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+70"
+            },
+            {
+              "level": "2",
+              "description": "+70"
+            },
+            {
+              "level": "3",
+              "description": "+80"
+            },
+            {
+              "level": "4",
+              "description": "+80"
+            },
+            {
+              "level": "5",
+              "description": "+90"
+            },
+            {
+              "level": "6",
+              "description": "+90"
+            },
+            {
+              "level": "7",
+              "description": "+100"
+            },
+            {
+              "level": "8",
+              "description": "+100"
+            },
+            {
+              "level": "9",
+              "description": "+110"
+            },
+            {
+              "level": "10",
+              "description": "+110"
+            },
+            {
+              "level": "11",
+              "description": "+120"
+            },
+            {
+              "level": "12",
+              "description": "+120"
+            },
+            {
+              "level": "13",
+              "description": "+130"
+            },
+            {
+              "level": "14",
+              "description": "+130"
+            },
+            {
+              "level": "15",
+              "description": "+140"
+            },
+            {
+              "level": "16",
+              "description": "+140"
+            },
+            {
+              "level": "17",
+              "description": "+150"
+            },
+            {
+              "level": "18",
+              "description": "+150"
+            },
+            {
+              "level": "19",
+              "description": "+160"
+            },
+            {
+              "level": "20",
+              "description": "+160"
+            },
+            {
+              "level": "21",
+              "description": "+170"
+            },
+            {
+              "level": "22",
+              "description": "+170"
+            },
+            {
+              "level": "23",
+              "description": "+180"
+            },
+            {
+              "level": "24",
+              "description": "+180"
+            },
+            {
+              "level": "25",
+              "description": "+190"
+            },
+            {
+              "level": "26",
+              "description": "+190"
+            },
+            {
+              "level": "27",
+              "description": "+200"
+            },
+            {
+              "level": "28",
+              "description": "+200"
+            },
+            {
+              "level": "29",
+              "description": "+210"
+            },
+            {
+              "level": "30",
+              "description": "+210"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wise Glasses",
+      "image": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "Increases Sp. Atk by 3%.",
+          "image": ""
+        },
+        {
+          "level": 10,
+          "description": "Increases Sp. Atk by 5%.",
+          "image": ""
+        },
+        {
+          "level": 20,
+          "description": "Increases Sp. Atk by 7%.",
+          "image": ""
+        }
+      ],
+      "stats": [
+        {
+          "name": "Sp. Atk",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+10"
+            },
+            {
+              "level": "2",
+              "description": "+11"
+            },
+            {
+              "level": "3",
+              "description": "+12"
+            },
+            {
+              "level": "4",
+              "description": "+13"
+            },
+            {
+              "level": "5",
+              "description": "+14"
+            },
+            {
+              "level": "6",
+              "description": "+15"
+            },
+            {
+              "level": "7",
+              "description": "+16"
+            },
+            {
+              "level": "8",
+              "description": "+17"
+            },
+            {
+              "level": "9",
+              "description": "+18"
+            },
+            {
+              "level": "10",
+              "description": "+19"
+            },
+            {
+              "level": "11",
+              "description": "+20"
+            },
+            {
+              "level": "12",
+              "description": "+21"
+            },
+            {
+              "level": "13",
+              "description": "+22"
+            },
+            {
+              "level": "14",
+              "description": "+23"
+            },
+            {
+              "level": "15",
+              "description": "+24"
+            },
+            {
+              "level": "16",
+              "description": "+25"
+            },
+            {
+              "level": "17",
+              "description": "+26"
+            },
+            {
+              "level": "18",
+              "description": "+27"
+            },
+            {
+              "level": "19",
+              "description": "+28"
+            },
+            {
+              "level": "20",
+              "description": "+29"
+            },
+            {
+              "level": "21",
+              "description": "+30"
+            },
+            {
+              "level": "22",
+              "description": "+31"
+            },
+            {
+              "level": "23",
+              "description": "+32"
+            },
+            {
+              "level": "24",
+              "description": "+33"
+            },
+            {
+              "level": "25",
+              "description": "+34"
+            },
+            {
+              "level": "26",
+              "description": "+35"
+            },
+            {
+              "level": "27",
+              "description": "+36"
+            },
+            {
+              "level": "28",
+              "description": "+37"
+            },
+            {
+              "level": "29",
+              "description": "+38"
+            },
+            {
+              "level": "30",
+              "description": "+39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
