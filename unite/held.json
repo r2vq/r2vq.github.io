@@ -2,6 +2,7 @@
   "held_items": [
     {
       "name": "Aeos Cookie",
+      "id": "1",
       "image": "https://r2vq.github.io/unite/img/Held_Aeos_Cookie.png",
       "upgrades": [
         {
@@ -150,6 +151,7 @@
     },
     {
       "name": "Assault Vest",
+      "id": "2",
       "image": "https://r2vq.github.io/unite/img/Held_Assault_Vest.png",
       "upgrades": [
         {
@@ -423,6 +425,7 @@
     },
     {
       "name": "Attack Weight",
+      "id": "3",
       "image": "https://r2vq.github.io/unite/img/Held_Attack_Weight.png",
       "upgrades": [
         {
@@ -571,6 +574,7 @@
     },
     {
       "name": "Buddy Barrier",
+      "id": "4",
       "image": "https://r2vq.github.io/unite/img/Held_Buddy_Barrier.png",
       "upgrades": [
         {
@@ -719,6 +723,7 @@
     },
     {
       "name": "Choice Specs",
+      "id": "5",
       "image": "https://r2vq.github.io/unite/img/Held_Choice_Specs.png",
       "upgrades": [
         {
@@ -867,6 +872,7 @@
     },
     {
       "name": "Energy Amplifier",
+      "id": "6",
       "image": "https://r2vq.github.io/unite/img/Held_Energy_Amplifier.png",
       "upgrades": [
         {
@@ -1015,6 +1021,7 @@
     },
     {
       "name": "Exp. Share",
+      "id": "7",
       "image": "https://r2vq.github.io/unite/img/Held_Exp_Share.png",
       "upgrades": [
         {
@@ -1288,6 +1295,7 @@
     },
     {
       "name": "Float Stone",
+      "id": "8",
       "image": "https://r2vq.github.io/unite/img/Held_Float_Stone.png",
       "upgrades": [
         {
@@ -1561,6 +1569,7 @@
     },
     {
       "name": "Focus Band",
+      "id": "9",
       "image": "https://r2vq.github.io/unite/img/Held_Focus_Band.png",
       "upgrades": [
         {
@@ -1834,6 +1843,7 @@
     },
     {
       "name": "Leftovers",
+      "id": "10",
       "image": "https://r2vq.github.io/unite/img/Held_Leftovers.png",
       "upgrades": [
         {
@@ -2107,6 +2117,7 @@
     },
     {
       "name": "Muscle Band",
+      "id": "11",
       "image": "https://r2vq.github.io/unite/img/Held_Muscle_Band.png",
       "upgrades": [
         {
@@ -2380,6 +2391,7 @@
     },
     {
       "name": "Razor Claw",
+      "id": "12",
       "image": "https://r2vq.github.io/unite/img/Held_Razor_Claw.png",
       "upgrades": [
         {
@@ -2653,6 +2665,7 @@
     },
     {
       "name": "Rocky Helmet",
+      "id": "13",
       "image": "https://r2vq.github.io/unite/img/Held_Rocky_Helmet.png",
       "upgrades": [
         {
@@ -2801,6 +2814,7 @@
     },
     {
       "name": "Scope Lens",
+      "id": "14",
       "image": "https://r2vq.github.io/unite/img/Held_Scope_Lens.png",
       "upgrades": [
         {
@@ -3074,6 +3088,7 @@
     },
     {
       "name": "Score Shield",
+      "id": "15",
       "image": "https://r2vq.github.io/unite/img/Held_Score_Shield.png",
       "upgrades": [
         {
@@ -3222,6 +3237,7 @@
     },
     {
       "name": "Shell Bell",
+      "id": "16",
       "image": "https://r2vq.github.io/unite/img/Held_Shell_Bell.png",
       "upgrades": [
         {
@@ -3495,6 +3511,7 @@
     },
     {
       "name": "Sp. Atk Specs",
+      "id": "17",
       "image": "https://r2vq.github.io/unite/img/Held_Special_Attack_Specs.png",
       "upgrades": [
         {
@@ -3643,6 +3660,7 @@
     },
     {
       "name": "Weakness Policy",
+      "id": "18",
       "image": "https://r2vq.github.io/unite/img/Held_Weakness_Policy.png",
       "upgrades": [
         {
@@ -3791,6 +3809,7 @@
     },
     {
       "name": "Wise Glasses",
+      "id": "19",
       "image": "https://r2vq.github.io/unite/img/Held_Wise_Glasses.png",
       "upgrades": [
         {
