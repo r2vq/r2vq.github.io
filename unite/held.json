@@ -8,17 +8,17 @@
         {
           "level": 1,
           "description": "When the Pokémon scores a goal, its max HP increases by 100.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When the Pokémon scores a goal, its max HP increases by 150.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When the Pokémon scores a goal, its max HP increases by 200.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -157,17 +157,17 @@
         {
           "level": 1,
           "description": "When the Pokémon is not combat, it is granted a shield that nullifies Sp. Atk damage equal to 9% of its max HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When the Pokémon is not combat, it is granted a shield that nullifies Sp. Atk damage equal to 12% of its max HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When the Pokémon is not combat, it is granted a shield that nullifies Sp. Atk damage equal to 15% of its max HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -431,17 +431,17 @@
         {
           "level": 1,
           "description": "When the Pokémon scores a goal, its Attack increases by 6.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When the Pokémon scores a goal, its Attack increases by 9.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When the Pokémon scores a goal, its Attack increases by 12.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -580,17 +580,17 @@
         {
           "level": 1,
           "description": "When the Pokémon uses its Unite Move, that Pokémon and the nearby ally Pokémon with the lowest HP are each granted a shield equal to 20% of their max HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When the Pokémon uses its Unite Move, that Pokémon and the nearby ally Pokémon with the lowest HP are each granted a shield equal to 30% of their max HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When the Pokémon uses its Unite Move, that Pokémon and the nearby ally Pokémon with the lowest HP are each granted a shield equal to 40% of their max HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -729,17 +729,17 @@
         {
           "level": 1,
           "description": "Adds a minimum of 40 damage to moves when they hit. The higher the Pokémon's Sp. Atk is, the more this additional damage is increased.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "Adds a minimum of 50 damage to moves when they hit. The higher the Pokémon's Sp. Atk is, the more this additional damage is increased.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "Adds a minimum of 60 damage to moves when they hit. The higher the Pokémon's Sp. Atk is, the more this additional damage is increased.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -878,17 +878,17 @@
         {
           "level": 1,
           "description": "After the Pokémon uses its Unite Move, the damage the Pokémon deals is increased by 7% for a short time.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "After the Pokémon uses its Unite Move, the damage the Pokémon deals is increased by 14% for a short time.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "After the Pokémon uses its Unite Move, the damage the Pokémon deals is increased by 21% for a short time.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -1027,17 +1027,17 @@
         {
           "level": 1,
           "description": "While the Pokémon has the fewest Exp. Points on its team, it gains 2 more Exp. Points per second. In addition, when a nearby teammate defeats a wild Pokémon, that teammate gains slightly more Exp. Points.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "While the Pokémon has the fewest Exp. Points on its team, it gains 3 more Exp. Points per second. In addition, when a nearby teammate defeats a wild Pokémon, that teammate gains slightly more Exp. Points.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "While the Pokémon has the fewest Exp. Points on its team, it gains 4 more Exp. Points per second. In addition, when a nearby teammate defeats a wild Pokémon, that teammate gains slightly more Exp. Points.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -1301,17 +1301,17 @@
         {
           "level": 1,
           "description": "Increases movement speed by 10% when the Pokémon is not in combat.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "Increases movement speed by 15% when the Pokémon is not in combat.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "Increases movement speed by 20% when the Pokémon is not in combat.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -1575,17 +1575,17 @@
         {
           "level": 1,
           "description": "When the Pokémon drops to low HP, then each second for three seconds, it recovers 8% of the HP it had lost.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When the Pokémon drops to low HP, then each second for three seconds, it recovers 11% of the HP it had lost.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When the Pokémon drops to low HP, then each second for three seconds, it recovers 14% of the HP it had lost.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -1849,17 +1849,17 @@
         {
           "level": 1,
           "description": "When the Pokémon is not in combat, it recovers 1% of its max HP every second.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When the Pokémon is not in combat, it recovers 1.5% of its max HP every second.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When the Pokémon is not in combat, it recovers 2% of its max HP every second.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -2123,17 +2123,17 @@
         {
           "level": 1,
           "description": "When basic attacks hit, the damage is increased by 1% of the opposing Pokémon's remaining HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When basic attacks hit, the damage is increased by 2% of the opposing Pokémon's remaining HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When basic attacks hit, the damage is increased by 3% of the opposing Pokémon's remaining HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -2397,17 +2397,17 @@
         {
           "level": 1,
           "description": "After this Pokémon uses a move, a minimum of 10 damage is added to its next basic attack. The higher the Pokémon's attack is, the more this additional damage is increased. When this item is held by a melee Pokémon, this additional damage also decreases the movement speed of opposing Pokémon for a short time.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "After this Pokémon uses a move, a minimum of 15 damage is added to its next basic attack. The higher the Pokémon's attack is, the more this additional damage is increased. When this item is held by a melee Pokémon, this additional damage also decreases the movement speed of opposing Pokémon for a short time.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "After this Pokémon uses a move, a minimum of 20 damage is added to its next basic attack. The higher the Pokémon's attack is, the more this additional damage is increased. When this item is held by a melee Pokémon, this additional damage also decreases the movement speed of opposing Pokémon for a short time.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -2671,17 +2671,17 @@
         {
           "level": 1,
           "description": "When the Pokémon receives a certain amount of damage, damage is dealt to nearby opposing Pokémon equal to 3% of those Pokémon's max HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When the Pokémon receives a certain amount of damage, damage is dealt to nearby opposing Pokémon equal to 4% of those Pokémon's max HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When the Pokémon receives a certain amount of damage, damage is dealt to nearby opposing Pokémon equal to 5% of those Pokémon's max HP.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -2820,17 +2820,17 @@
         {
           "level": 1,
           "description": "Increases the damage of basic attack critical hits. The higher the Pokémon's Attack, the more this damage increases.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "Increases the damage of basic attack critical hits. The higher the Pokémon's Attack, the more this damage increases.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "Increases the damage of basic attack critical hits. The higher the Pokémon's Attack, the more this damage increases.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -3094,17 +3094,17 @@
         {
           "level": 1,
           "description": "While the Pokémon is attempting to score a goal, it is granted a shield equal to 5% of its max HP and its goals cannot be interrupted while it is shielded.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "While the Pokémon is attempting to score a goal, it is granted a shield equal to 7.5% of its max HP and its goals cannot be interrupted while it is shielded.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "While the Pokémon is attempting to score a goal, it is granted a shield equal to 10% of its max HP and its goals cannot be interrupted while it is shielded.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -3243,17 +3243,17 @@
         {
           "level": 1,
           "description": "When the Pokémon hits with a move, it recovers a minimum of 45 HP. The higher the Pokémon's Sp. Atk, the more HP it recovers.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When the Pokémon hits with a move, it recovers a minimum of 60 HP. The higher the Pokémon's Sp. Atk, the more HP it recovers.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When the Pokémon hits with a move, it recovers a minimum of 75 HP. The higher the Pokémon's Sp. Atk, the more HP it recovers.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -3517,17 +3517,17 @@
         {
           "level": 1,
           "description": "When the Pokémon scores a goal, its Sp. Atk increases by 8.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "When the Pokémon scores a goal, its Sp. Atk increases by 12.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "When the Pokémon scores a goal, its Sp. Atk increases by 16.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -3666,17 +3666,17 @@
         {
           "level": 1,
           "description": "Increases the Pokémon's Attack for a short time by a minimum of 2% when the Pokémon receives damage. This increase grows larger the more times damage is received.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "Increases the Pokémon's Attack for a short time by a minimum of 2.5% when the Pokémon receives damage. This increase grows larger the more times damage is received.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "Increases the Pokémon's Attack for a short time by a minimum of 3% when the Pokémon receives damage. This increase grows larger the more times damage is received.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
@@ -3815,17 +3815,17 @@
         {
           "level": 1,
           "description": "Increases Sp. Atk by 3%.",
-          "image": "https://r2vq.github.io/unite/img/Circle1.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle1.png"
         },
         {
           "level": 10,
           "description": "Increases Sp. Atk by 5%.",
-          "image": "https://r2vq.github.io/unite/img/Circle10.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle10.png"
         },
         {
           "level": 20,
           "description": "Increases Sp. Atk by 7%.",
-          "image": "https://r2vq.github.io/unite/img/Circle20.svg"
+          "image": "https://r2vq.github.io/unite/img/Circle20.png"
         }
       ],
       "stats": [
