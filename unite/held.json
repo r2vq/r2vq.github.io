@@ -1016,6 +1016,131 @@
               "description": "+6%"
             }
           ]
+        },
+        {
+          "name": "Cooldown",
+          "detail": [
+            {
+              "level": "1",
+              "description": "-0%"
+            },
+            {
+              "level": "2",
+              "description": "-0.3%"
+            },
+            {
+              "level": "3",
+              "description": "-0.3%"
+            },
+            {
+              "level": "4",
+              "description": "-0.6%"
+            },
+            {
+              "level": "5",
+              "description": "-0.6%"
+            },
+            {
+              "level": "6",
+              "description": "-0.9%"
+            },
+            {
+              "level": "7",
+              "description": "-0.9%"
+            },
+            {
+              "level": "8",
+              "description": "-1.2%"
+            },
+            {
+              "level": "9",
+              "description": "-1.2%"
+            },
+            {
+              "level": "10",
+              "description": "-1.5%"
+            },
+            {
+              "level": "11",
+              "description": "-1.5%"
+            },
+            {
+              "level": "12",
+              "description": "-1.8%"
+            },
+            {
+              "level": "13",
+              "description": "-1.8%"
+            },
+            {
+              "level": "14",
+              "description": "-2.1%"
+            },
+            {
+              "level": "15",
+              "description": "-2.1%"
+            },
+            {
+              "level": "16",
+              "description": "-2.4%"
+            },
+            {
+              "level": "17",
+              "description": "-2.4%"
+            },
+            {
+              "level": "18",
+              "description": "-2.7%"
+            },
+            {
+              "level": "19",
+              "description": "-2.7%"
+            },
+            {
+              "level": "20",
+              "description": "-3%"
+            },
+            {
+              "level": "21",
+              "description": "-3%"
+            },
+            {
+              "level": "22",
+              "description": "-3.3%"
+            },
+            {
+              "level": "23",
+              "description": "-3.3%"
+            },
+            {
+              "level": "24",
+              "description": "-3.6%"
+            },
+            {
+              "level": "25",
+              "description": "-3.6%"
+            },
+            {
+              "level": "26",
+              "description": "-3.9%"
+            },
+            {
+              "level": "27",
+              "description": "-3.9%"
+            },
+            {
+              "level": "28",
+              "description": "-4.2%"
+            },
+            {
+              "level": "29",
+              "description": "-4.2%"
+            },
+            {
+              "level": "30",
+              "description": "-4.5%"
+            }
+          ]
         }
       ]
     },
@@ -2807,6 +2932,131 @@
             {
               "level": "30",
               "description": "+270"
+            }
+          ]
+        },
+        {
+          "name": "Defense",
+          "detail": [
+            {
+              "level": "1",
+              "description": "+0"
+            },
+            {
+              "level": "2",
+              "description": "+2.8"
+            },
+            {
+              "level": "3",
+              "description": "+2.8"
+            },
+            {
+              "level": "4",
+              "description": "+5.6"
+            },
+            {
+              "level": "5",
+              "description": "+5.6"
+            },
+            {
+              "level": "6",
+              "description": "+8.4"
+            },
+            {
+              "level": "7",
+              "description": "+8.4"
+            },
+            {
+              "level": "8",
+              "description": "+11.2"
+            },
+            {
+              "level": "9",
+              "description": "+11.2"
+            },
+            {
+              "level": "10",
+              "description": "+14"
+            },
+            {
+              "level": "11",
+              "description": "+14"
+            },
+            {
+              "level": "12",
+              "description": "+16.8"
+            },
+            {
+              "level": "13",
+              "description": "+16.8"
+            },
+            {
+              "level": "14",
+              "description": "+19.6"
+            },
+            {
+              "level": "15",
+              "description": "+19.6"
+            },
+            {
+              "level": "16",
+              "description": "+22.4"
+            },
+            {
+              "level": "17",
+              "description": "+22.4"
+            },
+            {
+              "level": "18",
+              "description": "+25.2"
+            },
+            {
+              "level": "19",
+              "description": "+25.2"
+            },
+            {
+              "level": "20",
+              "description": "+28"
+            },
+            {
+              "level": "21",
+              "description": "+28"
+            },
+            {
+              "level": "22",
+              "description": "+30.8"
+            },
+            {
+              "level": "23",
+              "description": "+30.8"
+            },
+            {
+              "level": "24",
+              "description": "+33.6"
+            },
+            {
+              "level": "25",
+              "description": "+33.6"
+            },
+            {
+              "level": "26",
+              "description": "+36.4"
+            },
+            {
+              "level": "27",
+              "description": "+36.4"
+            },
+            {
+              "level": "28",
+              "description": "+39.2"
+            },
+            {
+              "level": "29",
+              "description": "+39.2"
+            },
+            {
+              "level": "30",
+              "description": "+42"
             }
           ]
         }
