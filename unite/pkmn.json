@@ -2483,7 +2483,7 @@
       "passive": {
         "image": "https://r2vq.github.io/unite/img/Passive_Decidueye.png",
         "name": "Long Reach",
-        "description": "Deals increased damage to distance opposing Pokémon."
+        "description": "Deals increased damage to distant opposing Pokémon."
       },
       "unite": {
         "image": "https://r2vq.github.io/unite/img/Unite_Decidueye.png",
