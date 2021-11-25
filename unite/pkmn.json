@@ -2411,6 +2411,103 @@
           "image": "https://r2vq.github.io/unite/img/Pokemon_Greedent.png"
         }
       ]
+    },
+    {
+      "id": "027",
+      "name": "Decidueye",
+      "difficulty": "intermediate",
+      "style": "ranged",
+      "role": "attacker",
+      "lane": "top",
+      "attack_type": "physical",
+      "stars": {
+        "offense": 3.5,
+        "endurance": 1.5,
+        "mobility": 1.5,
+        "scoring": 3.5,
+        "support": 3.5
+      },
+      "moveset": [
+        {
+          "basic": {
+            "name": "Leafage",
+            "cooldown": "8s",
+            "description": "Pelts leaves in the designated direction, dealing damage to opposing Pokémon hit b them. For a short time after using this move, the user's Attack and basic attack speed are increased.",
+            "image": "https://r2vq.github.io/unite/img/Move_Ability_Decidueye_1_0.png",
+            "upgrade": 7
+          },
+          "upgrades": [
+            {
+              "name": "Razor Leaf",
+              "cooldown": "10s",
+              "description": "Summons whirling razor leaves. For a short time after using this move, the user's Attack and basic attack speed are increased. In addition, the user's basic attacks can target multiple opposing Pokémon for a short time.\n\nUpgrade: Increases the user's basic attack damage the higher the opposing Pokémon's remaining HP is.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Decidueye_1_1.png"
+            },
+            {
+              "name": "Spirit Shackle",
+              "cooldown": "9s",
+              "description": "Charges power before firing quills in the designated direction. Damage dealt by quills increases the longer power is charged, but movement speed is decreased while charging. If this move hits after power is charged to the maximum, it can stitch the opposing Pokémon's shadow to the ground. The affected Pokémon receives damage upon moving a set distance from that location, and its movement speed is decreased for a short time.\n\nUpgrade: Deals increased damage to opposing Pokémon with low remaining HP.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Decidueye_1_2.png"
+            }
+          ]
+        },
+        {
+          "basic": {
+            "name": "Astonish",
+            "cooldown": "8s",
+            "description": "Deals damage to opposing Pokémon and decreases their movement speed for a short time.",
+            "image": "https://r2vq.github.io/unite/img/Move_Ability_Decidueye_2_0.png",
+            "upgrade": 8
+          },
+          "upgrades": [
+            {
+              "name": "Leaf Storm",
+              "cooldown": "8s",
+              "description": "Creates a tempest of sharp leaves, dealing damage to opposing Pokémon it hits and decreasing their movement speed for a short time. At point-blank range, it also shoves opposing Pokémon it hits.\n\nUpgrade: Increases the length of time that movement speed of opposing Pokémon is decreased.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Decidueye_2_1.png"
+            },
+            {
+              "name": "Shadow Sneak",
+              "cooldown": "12s",
+              "description": "Creates a shadow that takes hold of one opposing Pokémon in the area of effect, dealing damage to it and decreasing its movement speed and Defense for a short time. Also increases the user's movement speed for a short time.\n\nUpgrade: Further decreases Defense.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Decidueye_2_2.png"
+            }
+          ]
+        }
+      ],
+      "basic": {
+        "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+        "name": "Basic Attack",
+        "description": "Increases the speed of basic attacks for a short time after one hits. This effect can stack, and with every third activation of this effect, basic attacks become boosted attacks for a short time. These boosted attacks fire more quills, but the damage dealt by each quill is decreased."
+      },
+      "passive": {
+        "image": "https://r2vq.github.io/unite/img/Passive_Decidueye.png",
+        "name": "Long Reach",
+        "description": "Deals increased damage to distance opposing Pokémon."
+      },
+      "unite": {
+        "image": "https://r2vq.github.io/unite/img/Unite_Decidueye.png",
+        "name": "Unite Move: Nock Nock",
+        "description": "Fires quills in the designated direction, dealing damage to opposing Pokémon. The move ends by unleashing a particularly large quill that deals damage to all opposing Pokémon it hits. This move deals increased damage if the opposing Pokémon's remaining HP is low. While using this move, the user becomes immune to hindrances but is unable to move."
+      },
+      "image": "https://r2vq.github.io/unite/img/Pokemon_Decidueye.png",
+      "evolutions": [
+        {
+          "name": "Rowlet",
+          "level": 1,
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Rowlet.png"
+        },
+        {
+          "name": "Dartrix",
+          "level": 5,
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Dartrix.png"
+        },
+        {
+          "name": "Decidueye",
+          "level": 7,
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Decidueye.png"
+        }
+      ]
     }
   ]
 }
