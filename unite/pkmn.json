@@ -2535,6 +2535,202 @@
           "image": "https://r2vq.github.io/unite/img/Pokemon_Decidueye.png"
         }
       ]
+    },
+    {
+      "id": "028",
+      "name": "Tsareena",
+      "difficulty": "expert",
+      "style": "melee",
+      "role": "allrounder",
+      "lane": "bottom",
+      "attack_type": "physical",
+      "stars": {
+        "offense": 3.5,
+        "endurance": 3,
+        "mobility": 3,
+        "scoring": 1.5,
+        "support": 0.5
+      },
+      "moveset": [
+        {
+          "basic": {
+            "name": "Razor Leaf",
+            "cooldown": "5s",
+            "description": "Pelts leaves in the designated direction, dealing damage to the opposing Pokémon. The critical-hit rate of this move is higher than that of basic attacks.",
+            "image": "https://r2vq.github.io/unite/img/Move_Ability_Tsareena_1_0.png",
+            "upgrade": 5
+          },
+          "upgrades": [
+            {
+              "name": "Triple Axel",
+              "cooldown": "7s",
+              "description": "Has the user spin-kick three times in the designated direction, dealing damage to opposing Pokémon. The damage dealt increases each time a kick hits, and basic attack speed is increased for a short time after this move ends by an amount based on the number of landed kicks.\n\nQueenly Majesty Effect: Restores HP eac time a kick hits.\n\nUpgrade: Increases damage dealt by this move.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Tsareena_1_1.png"
+            },
+            {
+              "name": "Stomp",
+              "cooldown": "5.5s",
+              "description": "Has the user jump up high and attack opposing Pokémon with its feet. When this move hits, it deals damage to opposing Pokémon and leaves them unable to act for a short time.\n\nQueenly Majesty Effect: Restores HP when this move hits.\n\nUpgrade: Increases damage dealt by this move.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Tsareena_1_2.png"
+            }
+          ]
+        },
+        {
+          "basic": {
+            "name": "Rapid Spin",
+            "cooldown": "7.5s",
+            "description": "Has the user spin in the designated direction, dealing damage to any opposing Pokémon it hits. When this move hits, it raises the user's movement speed for a short time.",
+            "image": "https://r2vq.github.io/unite/img/Move_Ability_Tsareena_2_0.png",
+            "upgrade": 6
+          },
+          "upgrades": [
+            {
+              "name": "Trop Kick",
+              "cooldown": "10s",
+              "description": "Has the user perform a flying kick in the designated direction, dealing damage to opposing Pokémon it hits and decreasing their Attack for a short time. Opposing Pokémon that make contact with the flying kick's wake receive damage and have their movement speed decreased for a short time.\n\nQueenly Majesty Effect: Grants the user a shield when this move is used.\n\nUpgrade: Increases damage dealt by this move.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Tsareena_2_1.png"
+            },
+            {
+              "name": "Grassy Glide",
+              "cooldown": "6.5s",
+              "description": "Has the user slide in the designated direction, dealing damage to opposing Pokémon it hits and decreasing their movement speed for a short time. This is followed by an attack in the opposite direction, which deals damage to and shoves opposing Pokémon.\n\nQueenly Majesty Effect: Grants the user a shield when this move is used.\n\nUpgrade: Increases damage dealt by this move.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Tsareena_2_2.png"
+            }
+          ]
+        }
+      ],
+      "basic": {
+        "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+        "name": "Basic Attack",
+        "description": "Becomes a boosted attack with every third attack, lunging at an opposing Pokémon, dealing damage, and lowering its Defense for a short time."
+      },
+      "passive": {
+        "image": "https://r2vq.github.io/unite/img/Passive_Tsareena.png",
+        "name": "Oblivious / Oblivious / Queenly Majesty",
+        "description": "Oblivious: When a hindrance is inflicted on the Pokémon, decreases the duration of its effects.\n\nOblivious: When a hindrance is inflicted on the Pokémon, decreases the duration of its effects.\n\nQueenly Majesty: When a hindrance is inflicted on the Pokémon, decreases the duration of its effects. After using any combination of three boosted basic attacks or moves, the next boosted basic attack or move used will apply the Queenly Majesty buff effect to the Pokémon (not including Unite Moves)."
+      },
+      "unite": {
+        "image": "https://r2vq.github.io/unite/img/Unite_Tsareena.png",
+        "name": "Unite Move: Queen Ascendant",
+        "description": "Has the user leap toward a Pokémon from the opposing team and kick it high into the air before showering it with a series of kicks while airborne and dealing damage. The moment the user lands on the ground after the series of kicks, it recovers HP. While airborne, Tsareena and the opposing Pokémon that is being kicked are not affected by other moves."
+      },
+      "image": "https://r2vq.github.io/unite/img/Pokemon_Tsareena.png",
+      "profile": "https://r2vq.github.io/unite/img/Profile_Tsareena.png",
+      "evolutions": [
+        {
+          "name": "Bounsweet",
+          "level": 1,
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Bounsweet.png"
+        },
+        {
+          "name": "Steenee",
+          "level": 4,
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Steenee.png"
+        },
+        {
+          "name": "Tsareena",
+          "level": 6,
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Tsareena.png"
+        }
+      ]
+    },
+    {
+      "id": "029",
+      "name": "Dragonite",
+      "difficulty": "novice",
+      "style": "ranged",
+      "role": "allrounder",
+      "lane": "bottom",
+      "attack_type": "physical",
+      "stars": {
+        "offense": 4,
+        "endurance": 2.5,
+        "mobility": 2.5,
+        "scoring": 3,
+        "support": 0.5
+      },
+      "moveset": [
+        {
+          "basic": {
+            "name": "Twister",
+            "cooldown": "7.5s",
+            "description": "Creates a twister and releases it in the designated direction, dealing damage to any opposing Pokémon it hits and decreasing their movement speed for a short time.",
+            "image": "https://r2vq.github.io/unite/img/Move_Ability_Dragonite_1_0.png",
+            "upgrade": 5
+          },
+          "upgrades": [
+            {
+              "name": "Dragon Dance",
+              "cooldown": "5s",
+              "description": "Has the user move to the designated location while performing a mystical dance, increasing the user's damage dealt, movement speed, and basic attack speed for a short time, when one of the user's basic attacks hits an opposing Pokémon, it reduces this move's cooldown. Each time this move is used, the user's damage dealt increases (upt o three times).\n\nUpgrade: Further increases the user's movement speed if there are opposing Pokémon nearby when the dance ends.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Dragonite_1_1.png"
+            },
+            {
+              "name": "Extreme Speed",
+              "cooldown": "9s",
+              "description": "Has the user leap at the designated opposing Pokémon and throw it, dealing damage to opposing Pokémon in the area of effect and shoving them. Also decreases the movement speed of opposing Pokémon it hits for a short time. Using this move will reset Multiscale's cooldown.\n\nIf the user's movement speed is currently decreased when it uses this move, that movement speed decrease is negated before the move is used.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Dragonite_1_2.png"
+            }
+          ]
+        },
+        {
+          "basic": {
+            "name": "Dragon Breath",
+            "cooldown": "7.5s",
+            "description": "Has the user exhale a mighty gust in the designated direction. If the move hits an opposing Pokémon, the user's next basic attack becomes a boosted attack.",
+            "image": "https://r2vq.github.io/unite/img/Move_Ability_Dragonite_2_0.png",
+            "upgrade": 8
+          },
+          "upgrades": [
+            {
+              "name": "Hyper Beam",
+              "cooldown": "8s",
+              "description": "Has the user aim at the designated opposing Pokémon, charge up power, and then unleash a beam of light that sweeps up the ground in a straight line. In addition to the beam's base damage, it also deals additional damage to opposing Pokémon it hits equal to a set percentage of their max HP. The user is left unable to act for a short time after using this move.\n\nUpgrade: Reduces damage the user receives while using this move, including when charging up power.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Dragonite_2_1.png"
+            },
+            {
+              "name": "Outrage",
+              "cooldown": "8s",
+              "description": "Has the user start rampaging, stomping the ground and dealing damage to opposing Pokémon in the area of effect. Also triggers the additional effect of the most recently used boosted basic attack once again. During the rampage, all of the user's basic attacks become special melee boosted attacks with increased attack speed. When the rampage ends, the user is left unable to act for a short time.\n\nUpgrade: Reduces the duration of hindrance effects inflicted on the user when the user is rampaging.",
+              "image": "https://r2vq.github.io/unite/img/Move_Ability_Dragonite_2_2.png"
+            }
+          ]
+        }
+      ],
+      "basic": {
+        "image": "https://r2vq.github.io/unite/img/Basic_Attack.png",
+        "name": "Basic Attack",
+        "description": "Dratini: Becomes a boosted attack with every third attack, blasting water in front of the user. This boosted attack deals damage to opposing Pokémon it hits and reduces the cooldown of all the user's moves. The water attack also has the additional effect of restoring the user's HP when it hits.\n\nDragonair: Becomes a boosted attack with every third attack, dealing damage to opposing Pokémon it hits and reducing the cooldown of all the user's moves. The boosted attack alternates between a water attack and an electric attack with every use. If the water attack hits, it triggers the same additional effect as Dratini's boosted boosted basic attack. If the electric attack hits, it leaves the opposing Pokémon unable to act for a short time.\n\nDragonite: Becomes a boosted attack with every third attack, dealing damage to opposing Pokémon it hits and reducing the cooldown of all the user's moves. The boosted attack alternates between a water, electric, and fire attack, in that order, with every use. If the water or electric attacks hit, they trigger the same additional effect as Dragonair's boosted boosted basic attacks. If the fire attack hits, it deals additional damage to the opposing Pokémon."
+      },
+      "passive": {
+        "image": "https://r2vq.github.io/unite/img/Passive_Dragonite.png",
+        "name": "Marvel Scale / Marvel Scale / Multiscale",
+        "description": "Marvel Scale: Increases the Pokémon's Defense when the Pokémon is afflicted by a status condition.\n\nMarvel Scale: Increases the Pokémon's Defense when the Pokémon is afflicted by a status condition.\n\nMultiscale: Reduces the damage the Pokémon receives for a short time. This Ability goes on cooldown after it's triggered."
+      },
+      "unite": {
+        "image": "https://r2vq.github.io/unite/img/Unite_Dragonite.png",
+        "name": "Unite Move: Draco Impact",
+        "description": "Has the user fly high into the air before crashing down with several comets on a designated area, dealing damage to opposing Pokémon in the area of effect and throwing them. The farther the user flies, the more the Unite Move gauge is consumed. While this Unite Move is being used, the user becomes immune to hindrances."
+      },
+      "image": "https://r2vq.github.io/unite/img/Pokemon_Dragonite.png",
+      "profile": "https://r2vq.github.io/unite/img/Profile_Dragonite.png",
+      "evolutions": [
+        {
+          "name": "Dratini",
+          "level": 1,
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Dratini.png"
+        },
+        {
+          "name": "Dragonair",
+          "level": 5,
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Dragonair.png"
+        },
+        {
+          "name": "Dragonite",
+          "level": 8,
+          "image": "https://r2vq.github.io/unite/img/Pokemon_Dragonite.png"
+        }
+      ]
     }
   ]
 }
